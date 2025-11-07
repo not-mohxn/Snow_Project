@@ -1,0 +1,12 @@
+date,plant_name,species,location,planted,cut
+2025-01-12,Neem,Tree,Jaipur,15,2
+2025-01-25,Peepal,Tree,Ajmer,10,1
+2025-02-10,Mango,Tree,Udaipur,20,3
+2025-02-22,Banyan,Tree,Kota,12,0
+2025-03-05,Ashoka,Tree,Jodhpur,18,4
+2025-03-18,Neem,Tree,Jaipur,25,2
+2025-04-02,Peepal,Tree,Bikaner,10,1
+2025-04-15,Mango,Tree,Jaipur,22,5
+2025-05-09,Banyan,Tree,Ajmer,8,0
+2025-05-28,Neem,Tree,Kota,14,3
+

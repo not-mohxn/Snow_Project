@@ -1,0 +1,1001 @@
+type,registration_no,name,dob,place,sex,father,mother,cause,created_at
+birth,REG-0001,Toni Peters,1978-03-12,Sherrishire,O,William Patterson,Rebekah Garcia,,2025-11-13T04:44:21.558351
+birth,REG-0002,Stephen Nguyen,1948-09-27,Jeanneport,F,Todd Berry,Sonia Cruz,,2025-11-13T04:44:21.559473
+birth,REG-0003,Robert Dalton,1995-03-27,East Richard,M,Mark Wagner,Tracy Mitchell,,2025-11-13T04:44:21.560477
+death,REG-0004,Jennifer Mann,,Nolantown,,,,Unknown,2025-11-13T04:44:21.561624
+death,REG-0005,Tamara Williams,,Pearsonshire,,,,Disease,2025-11-13T04:44:21.561990
+birth,REG-0006,Marc Wright,1977-06-04,Debbiestad,M,Bernard Bell,Elizabeth Huang,,2025-11-13T04:44:21.562299
+death,REG-0007,Whitney Williams,,Mikeberg,,,,Unknown,2025-11-13T04:44:21.563094
+death,REG-0008,Christopher Wilson,,New Sandrafurt,,,,Unknown,2025-11-13T04:44:21.563413
+death,REG-0009,Laura Murray,,South Amber,,,,Disease,2025-11-13T04:44:21.563825
+death,REG-0010,Dr. Chelsea Burns,,Fieldsmouth,,,,Natural,2025-11-13T04:44:21.564196
+birth,REG-0011,Daniel Mora,1961-10-23,New Paige,F,Larry Lewis,Melissa Donaldson,,2025-11-13T04:44:21.564495
+death,REG-0012,William Ferguson,,East Victoriaport,,,,Disease,2025-11-13T04:44:21.565378
+death,REG-0013,Amanda Hill,,Patrickville,,,,Accident,2025-11-13T04:44:21.565702
+death,REG-0014,Michael Harris,,Williamsbury,,,,Natural,2025-11-13T04:44:21.566211
+birth,REG-0015,Scott Brown,2016-11-04,Brownmouth,O,Austin Schaefer,Lisa Gonzalez,,2025-11-13T04:44:21.566560
+birth,REG-0016,William Ortiz,1991-03-15,Taylorberg,F,Jacob Jones,Barbara Johnson,,2025-11-13T04:44:21.567396
+birth,REG-0017,Tracy Ballard,1993-05-29,East Linda,O,John York,Stephanie Christensen,,2025-11-13T04:44:21.568209
+death,REG-0018,Brandon Dean,,Haasberg,,,,Natural,2025-11-13T04:44:21.568985
+death,REG-0019,John Giles,,West Michelle,,,,Unknown,2025-11-13T04:44:21.569341
+birth,REG-0020,Matthew Cabrera,1948-07-26,North Bonnieview,F,Mark Perez,Elizabeth Gomez,,2025-11-13T04:44:21.569653
+birth,REG-0021,Shelley Adams,1966-06-13,Jeremiahtown,F,Jordan Brooks,Melanie Roy,,2025-11-13T04:44:21.570417
+death,REG-0022,Stephen Ruiz,,New Dillon,,,,Accident,2025-11-13T04:44:21.571146
+death,REG-0023,Janet Moore,,Montgomeryfort,,,,Accident,2025-11-13T04:44:21.571567
+birth,REG-0024,Dr. Wendy Rogers,2019-09-06,Lopezbury,M,Charles Livingston DDS,Shelly Johnson,,2025-11-13T04:44:21.571952
+birth,REG-0025,Brandy Miller,2023-04-10,Kristinstad,M,Nicholas Thomas,Lindsey Burnett,,2025-11-13T04:44:21.572748
+death,REG-0026,Crystal Gomez,,Lake Marie,,,,Unknown,2025-11-13T04:44:21.573485
+birth,REG-0027,Tanner Williams,1953-10-24,Lewischester,O,Jordan Todd,Meredith Ayala,,2025-11-13T04:44:21.573880
+death,REG-0028,Lisa Edwards,,West Mark,,,,Accident,2025-11-13T04:44:21.574927
+death,REG-0029,Ruth Ellis,,East Jaredtown,,,,Natural,2025-11-13T04:44:21.575308
+birth,REG-0030,Ryan Mcclure,1945-12-22,North Rhondaside,O,James Henderson,Sharon King,,2025-11-13T04:44:21.575671
+death,REG-0031,Michael Roach,,Adamsfort,,,,Natural,2025-11-13T04:44:21.576462
+birth,REG-0032,Annette Carney,1970-09-16,Burnshaven,F,Carlos Wells,Marilyn Black,,2025-11-13T04:44:21.576893
+birth,REG-0033,Melissa Howard,1968-02-01,Ashleyburgh,F,Luis Martinez,Kathryn Tucker,,2025-11-13T04:44:21.577609
+death,REG-0034,Kimberly Keller,,Michelleshire,,,,Natural,2025-11-13T04:44:21.578404
+birth,REG-0035,Logan Watkins,2015-08-30,Zacharymouth,F,Jeffrey Pierce Jr.,Dawn Harris,,2025-11-13T04:44:21.578709
+death,REG-0036,Angela Shah,,Johnville,,,,Disease,2025-11-13T04:44:21.579509
+death,REG-0037,Dennis Young,,North Lawrence,,,,Accident,2025-11-13T04:44:21.579838
+birth,REG-0038,Jessica Leblanc,1988-12-25,Port Ethanberg,O,Jacob Villarreal,Donna Cuevas,,2025-11-13T04:44:21.580209
+death,REG-0039,Mr. Shawn Johnson,,East Kurtberg,,,,Natural,2025-11-13T04:44:21.580934
+death,REG-0040,Michelle Herrera,,Port Michaeltown,,,,Disease,2025-11-13T04:44:21.581321
+birth,REG-0041,Mary Reilly,2020-06-05,East Karenbury,F,Jesse Jefferson,Katelyn Hayes,,2025-11-13T04:44:21.581636
+death,REG-0042,Michael Gonzales,,Hickshaven,,,,Accident,2025-11-13T04:44:21.582439
+birth,REG-0043,Roberto Wise,1946-10-02,South Patriciaburgh,F,Robert Mills,Julia Wheeler,,2025-11-13T04:44:21.582755
+death,REG-0044,Robert Garcia,,Lynnstad,,,,Accident,2025-11-13T04:44:21.583543
+death,REG-0045,Kelly Scott,,Antonioside,,,,Accident,2025-11-13T04:44:21.608112
+death,REG-0046,Dale Martin,,North Ethanberg,,,,Natural,2025-11-13T04:44:21.608590
+death,REG-0047,Amanda Phelps,,Lake Matthewside,,,,Unknown,2025-11-13T04:44:21.608948
+birth,REG-0048,Stephanie Taylor,1953-07-02,Jensenville,M,Eric Bennett,Karen Wallace,,2025-11-13T04:44:21.609343
+death,REG-0049,Mrs. Melissa Mcconnell,,West Patricia,,,,Disease,2025-11-13T04:44:21.610171
+birth,REG-0050,Charles Miller,2018-01-28,Sandersport,F,David Miller,Natalie Smith,,2025-11-13T04:44:21.610573
+death,REG-0051,Timothy Webb,,Lake Tinaville,,,,Accident,2025-11-13T04:44:21.611354
+birth,REG-0052,Scott Carpenter,1994-02-05,Jamieside,F,David Hernandez,Megan Garcia,,2025-11-13T04:44:21.611750
+birth,REG-0053,Dan Snyder,1954-10-19,Lake Jason,F,Ricky Mcgee,Tracey Mitchell,,2025-11-13T04:44:21.612533
+death,REG-0054,Dr. Crystal Morales,,East Carolmouth,,,,Disease,2025-11-13T04:44:21.613301
+death,REG-0055,Michael Reed,,Kellerview,,,,Disease,2025-11-13T04:44:21.615978
+death,REG-0056,Anne Fry,,North Feliciamouth,,,,Unknown,2025-11-13T04:44:21.616324
+death,REG-0057,Michelle Moore,,Port Tricia,,,,Disease,2025-11-13T04:44:21.616626
+death,REG-0058,Thomas Nichols,,Meadowsmouth,,,,Unknown,2025-11-13T04:44:21.616984
+birth,REG-0059,Alyssa Roberts,2004-06-16,Kingburgh,F,Manuel Elliott,Elizabeth Lee,,2025-11-13T04:44:21.617321
+birth,REG-0060,Michael Jones,2010-05-29,Hughesmouth,M,John Hamilton,Sharon Marshall,,2025-11-13T04:44:21.618054
+birth,REG-0061,Dennis Stephens,1962-03-27,Derekstad,M,Mr. William Santos,Jean Anderson,,2025-11-13T04:44:21.618768
+death,REG-0062,Anthony Howell,,Walkerberg,,,,Accident,2025-11-13T04:44:21.619548
+death,REG-0063,Lori Peterson,,Mcintyretown,,,,Unknown,2025-11-13T04:44:21.619938
+birth,REG-0064,Kelly Long,1976-05-14,New Catherine,F,Gerald Welch,Destiny Ortiz,,2025-11-13T04:44:21.620248
+death,REG-0065,Ashley Waller,,Livingstonmouth,,,,Accident,2025-11-13T04:44:21.621238
+birth,REG-0066,Mary Mccarthy,1987-03-07,Port Kevin,O,Bryan Ponce,Melissa Pineda,,2025-11-13T04:44:21.621614
+birth,REG-0067,Jacqueline Hunt,1978-02-28,South Joechester,M,Jesus Arnold,Jody Jackson,,2025-11-13T04:44:21.622329
+birth,REG-0068,Timothy Mcfarland,1967-09-16,New Dakotamouth,F,Noah Nash,Jamie Walker,,2025-11-13T04:44:21.623066
+death,REG-0069,Susan Hunter,,Jacobborough,,,,Unknown,2025-11-13T04:44:21.623839
+birth,REG-0070,April Harper,2000-09-25,West Thomas,F,Gabriel Brown,Ann Robertson,,2025-11-13T04:44:21.624148
+birth,REG-0071,Vickie Thomas,2018-06-07,North Amandaburgh,M,Louis Davis,Erica Hunter,,2025-11-13T04:44:21.624887
+birth,REG-0072,Jordan Davis,1953-06-06,Lake Jennifer,F,David Ramirez,Donna Cobb,,2025-11-13T04:44:21.625660
+birth,REG-0073,John Lee,2008-12-11,Lake Kimberly,O,Terrence Hancock,Danielle Benson,,2025-11-13T04:44:21.626448
+birth,REG-0074,Sarah Prince,1986-04-23,North Glendafort,F,Steven Martinez,Ruth Howell,,2025-11-13T04:44:21.627201
+death,REG-0075,Nicholas Taylor,,South Connor,,,,Disease,2025-11-13T04:44:21.629519
+death,REG-0076,Glen Torres,,West Timothytown,,,,Natural,2025-11-13T04:44:21.629851
+death,REG-0077,Meagan Williams,,New Benjaminbury,,,,Accident,2025-11-13T04:44:21.630158
+birth,REG-0078,Nicole Johnson,2001-12-30,North Pedrotown,M,Charles Davis,Anna Contreras,,2025-11-13T04:44:21.630628
+death,REG-0079,Meghan Leon,,North Nathanton,,,,Accident,2025-11-13T04:44:21.631358
+birth,REG-0080,Mary Torres,2003-01-13,West Kevin,O,Nicholas Wood,Gina Hernandez,,2025-11-13T04:44:21.631724
+birth,REG-0081,Michael Malone,1973-07-14,South Janetland,F,Joshua Craig,Angelica Owens,,2025-11-13T04:44:21.632441
+death,REG-0082,Kimberly Phelps,,North Annton,,,,Natural,2025-11-13T04:44:21.633163
+death,REG-0083,Misty Harvey,,Port Brookeview,,,,Unknown,2025-11-13T04:44:21.633470
+death,REG-0084,Joshua Patrick,,North Larrymouth,,,,Accident,2025-11-13T04:44:21.633765
+death,REG-0085,Sherry Pace,,Chambersville,,,,Natural,2025-11-13T04:44:21.634124
+death,REG-0086,Dustin Scott,,Ballstad,,,,Disease,2025-11-13T04:44:21.634457
+death,REG-0087,Bonnie Smith,,South Lisatown,,,,Disease,2025-11-13T04:44:21.634761
+birth,REG-0088,Christopher Ford,2025-03-07,North Lori,O,James Hopkins,Deborah Spencer,,2025-11-13T04:44:21.635075
+birth,REG-0089,Catherine Roy,2010-06-10,Lake Vincentberg,O,Darren Drake,Victoria Hunter,,2025-11-13T04:44:21.635836
+birth,REG-0090,Reginald Jones,1996-02-27,Stevenhaven,F,William Duke,Stephanie Nunez,,2025-11-13T04:44:21.636642
+death,REG-0091,Michael Miller,,Nicholasmouth,,,,Natural,2025-11-13T04:44:21.637745
+death,REG-0092,Michael Medina,,Lopezton,,,,Natural,2025-11-13T04:44:21.638095
+death,REG-0093,Kenneth Lopez,,West Karlamouth,,,,Natural,2025-11-13T04:44:21.638433
+death,REG-0094,Michael Gordon,,Christophermouth,,,,Accident,2025-11-13T04:44:21.638751
+death,REG-0095,Tonya Smith,,West Annaview,,,,Disease,2025-11-13T04:44:21.639056
+birth,REG-0096,Cynthia Moran,1980-06-22,New Timothy,M,John Adams,Pamela Kirby,,2025-11-13T04:44:21.639378
+birth,REG-0097,Gabriel Fields MD,1996-10-18,Millermouth,F,Michael Lang,Monica Johnson,,2025-11-13T04:44:21.640158
+birth,REG-0098,Kristy Weber,1964-11-04,Hallville,F,Patrick Curtis,Lori Martin MD,,2025-11-13T04:44:21.640916
+death,REG-0099,Kayla Anderson,,Cliffordside,,,,Disease,2025-11-13T04:44:21.641642
+birth,REG-0100,Eric Gross,2016-09-05,South Joshuaview,M,Bobby Patton,Terri Hart,,2025-11-13T04:44:21.641946
+birth,REG-0101,David Kirk,1962-04-17,South Pamelachester,M,Andrew Davis,Gabrielle Black,,2025-11-13T04:44:21.642671
+birth,REG-0102,Melissa Hall,2007-03-27,West Maria,O,David Williams,Tara Barnes,,2025-11-13T04:44:21.646444
+birth,REG-0103,Shelly Beard,2025-05-26,Hugheshaven,O,Russell Barker,Amber Daniel,,2025-11-13T04:44:21.647256
+birth,REG-0104,Timothy Jacobs,2016-05-02,North Gregory,O,Taylor Brooks,Traci Dennis,,2025-11-13T04:44:21.648006
+birth,REG-0105,Jordan Reyes,1996-04-07,Ryanfurt,F,Ray Cantrell,Michelle Russell,,2025-11-13T04:44:21.648703
+birth,REG-0106,Melissa Wade,1986-06-13,Port Danielchester,M,Austin Smith,Maureen Ruiz,,2025-11-13T04:44:21.649422
+death,REG-0107,Alex Jones,,Tinaport,,,,Disease,2025-11-13T04:44:21.650186
+birth,REG-0108,Justin Grant,2010-01-23,South Ruben,O,Brian Rodriguez,Sarah Rios,,2025-11-13T04:44:21.650488
+death,REG-0109,Lisa Collins,,West Gregory,,,,Accident,2025-11-13T04:44:21.651217
+death,REG-0110,Mary Shields,,Port Daniel,,,,Accident,2025-11-13T04:44:21.651525
+death,REG-0111,Colleen Ellis,,East Christopher,,,,Natural,2025-11-13T04:44:21.651850
+death,REG-0112,Zachary Evans,,Lake Timothy,,,,Disease,2025-11-13T04:44:21.652165
+birth,REG-0113,Mark Sullivan,1989-03-11,Port Kaitlinville,F,Manuel Obrien,Allison Pacheco,,2025-11-13T04:44:21.652483
+death,REG-0114,Alex Lee,,Michaeltown,,,,Accident,2025-11-13T04:44:21.653395
+birth,REG-0115,Stephanie Frederick,1964-12-19,Woodland,O,Daniel Figueroa,Tiffany Mcconnell,,2025-11-13T04:44:21.653748
+birth,REG-0116,Todd Goodman,1952-09-25,New Stacystad,M,John Castro,Heidi Aguilar DVM,,2025-11-13T04:44:21.654475
+death,REG-0117,Robert Evans,,Laceymouth,,,,Accident,2025-11-13T04:44:21.655179
+death,REG-0118,Maria Watkins,,Lake Christina,,,,Natural,2025-11-13T04:44:21.655505
+birth,REG-0119,Michael Klein,2020-09-18,Reyesland,O,Jose Brewer,Catherine Campbell,,2025-11-13T04:44:21.655872
+birth,REG-0120,Chad Williamson,2020-11-05,West Michele,F,Joseph Gonzalez,Katherine Green,,2025-11-13T04:44:21.656695
+birth,REG-0121,Zachary Bailey,1959-05-23,Lake Ericburgh,F,Walter Thomas,Theresa Adams,,2025-11-13T04:44:21.657403
+birth,REG-0122,Taylor Small,1973-12-23,Gutierrezburgh,O,Joseph Brown,Isabel Yang,,2025-11-13T04:44:21.658161
+death,REG-0123,Teresa Thompson,,Port George,,,,Unknown,2025-11-13T04:44:21.658879
+death,REG-0124,Judith Martinez,,Lawrencefurt,,,,Unknown,2025-11-13T04:44:21.659184
+death,REG-0125,Alan Anderson,,Collinsmouth,,,,Unknown,2025-11-13T04:44:21.659515
+death,REG-0126,Mark Smith,,Johnnymouth,,,,Natural,2025-11-13T04:44:21.659856
+birth,REG-0127,Raymond Buchanan,2008-07-03,West Elizabethmouth,F,Scott Pope,Darlene Lee,,2025-11-13T04:44:21.660160
+death,REG-0128,Scott Bell,,Lake Stevemouth,,,,Disease,2025-11-13T04:44:21.662574
+birth,REG-0129,Jamie George,1951-03-27,Carolineborough,F,Nicholas Arellano,Aimee Jones,,2025-11-13T04:44:21.662887
+death,REG-0130,Christine Hardin,,Craigstad,,,,Unknown,2025-11-13T04:44:21.663664
+birth,REG-0131,Julian Randolph,2007-01-29,Port Williechester,M,Joseph Morgan,Kristen Maxwell,,2025-11-13T04:44:21.663990
+birth,REG-0132,Darren Frazier,1952-05-31,North Destinyfurt,F,Paul Williams,Deborah Curry,,2025-11-13T04:44:21.664724
+death,REG-0133,Katherine Singleton,,New John,,,,Accident,2025-11-13T04:44:21.665471
+birth,REG-0134,John Mcintyre,1962-01-06,Haydenborough,M,Logan Castillo,Tiffany Wilson,,2025-11-13T04:44:21.665842
+birth,REG-0135,Darlene Zamora,1994-04-26,West Scottport,M,Preston Miller,Melody Wang,,2025-11-13T04:44:21.668188
+death,REG-0136,Jasmine Martinez,,Brettshire,,,,Accident,2025-11-13T04:44:21.669021
+death,REG-0137,Tina Hess,,Lisaton,,,,Natural,2025-11-13T04:44:21.669330
+death,REG-0138,Justin Mccoy,,Rebeccaport,,,,Accident,2025-11-13T04:44:21.669661
+birth,REG-0139,Dustin Rivera,1972-09-29,Lake Rebeccahaven,O,Brian Mcclain,Maria Gonzalez,,2025-11-13T04:44:21.669978
+birth,REG-0140,Robert Jones,1956-10-23,West Chase,O,David Gillespie,Kathryn Michael,,2025-11-13T04:44:21.670695
+birth,REG-0141,Kelly Jackson,1956-03-23,North Erik,M,Matthew Rodriguez,Alexis Sheppard,,2025-11-13T04:44:21.671400
+death,REG-0142,Mark Fuentes,,Port Karen,,,,Disease,2025-11-13T04:44:21.672156
+birth,REG-0143,Kimberly Blackwell,1964-11-24,Jacksonstad,F,Gary Hatfield,April Foster,,2025-11-13T04:44:21.672501
+death,REG-0144,Daniel Preston,,Lake Ryanshire,,,,Accident,2025-11-13T04:44:21.673226
+death,REG-0145,Angela Lozano,,West William,,,,Unknown,2025-11-13T04:44:21.673527
+birth,REG-0146,Leah Davis,1983-07-02,South Jamiestad,O,Zachary Navarro,Kelly Finley,,2025-11-13T04:44:21.673830
+death,REG-0147,Nicholas Mcneil,,Lisaberg,,,,Unknown,2025-11-13T04:44:21.674546
+birth,REG-0148,Pamela Smith,2008-07-27,North Christina,O,Matthew Nicholson,Christina Neal,,2025-11-13T04:44:21.674848
+death,REG-0149,Matthew Salas,,Singhmouth,,,,Accident,2025-11-13T04:44:21.675729
+death,REG-0150,Ricardo Robertson,,Lake Erikchester,,,,Natural,2025-11-13T04:44:21.676074
+birth,REG-0151,Darrell Clark DDS,1971-07-01,Davidstad,M,David Cole,Kimberly Ramirez,,2025-11-13T04:44:21.676396
+death,REG-0152,Christopher Gonzalez,,New Rebeccaland,,,,Unknown,2025-11-13T04:44:21.677220
+death,REG-0153,John Suarez,,Margaretchester,,,,Unknown,2025-11-13T04:44:21.677533
+birth,REG-0154,Sierra Long,1996-11-24,Cruzland,M,Matthew Taylor DDS,Elizabeth Sanchez,,2025-11-13T04:44:21.677892
+birth,REG-0155,Denise Calhoun,2015-02-15,Carlosside,O,Trevor Perry,Rhonda Wilson,,2025-11-13T04:44:21.678659
+death,REG-0156,Dr. Jonathan Boyd,,Valerieland,,,,Accident,2025-11-13T04:44:21.679437
+death,REG-0157,Alexis Bailey,,North Jamesborough,,,,Disease,2025-11-13T04:44:21.679777
+birth,REG-0158,James Nixon,2014-11-20,Kristinashire,O,Mitchell Brooks,Sarah Patton,,2025-11-13T04:44:21.680110
+birth,REG-0159,Sarah Butler,1974-10-29,Griffithville,F,Harry Richard,Bonnie Edwards,,2025-11-13T04:44:21.680897
+death,REG-0160,Jennifer Holt,,Joshualand,,,,Accident,2025-11-13T04:44:21.681654
+birth,REG-0161,Michael Cox,1970-07-03,Williamschester,O,Brett Conrad,Monica Davis,,2025-11-13T04:44:21.681997
+birth,REG-0162,Erin Perez,1965-09-02,Stephaniechester,O,Christopher Elliott,Amanda Foster,,2025-11-13T04:44:21.682760
+death,REG-0163,Douglas Garza,,Justinberg,,,,Disease,2025-11-13T04:44:21.683492
+death,REG-0164,Justin Ramos,,Wolfmouth,,,,Unknown,2025-11-13T04:44:21.683892
+birth,REG-0165,Rodney Weber,1945-02-14,Jasmineton,F,Brian Franco,Catherine Bauer,,2025-11-13T04:44:21.684197
+birth,REG-0166,Steven Walker,1993-02-28,North Josephberg,M,Christopher Hall,Courtney Young,,2025-11-13T04:44:21.685130
+birth,REG-0167,Miss Linda Hicks,1944-11-17,Berryborough,M,Stephen Perry,Jennifer Mercado,,2025-11-13T04:44:21.685994
+birth,REG-0168,Christopher Kelley,1975-07-08,Port Megan,O,Joseph Fitzpatrick,Nicole Mcfarland,,2025-11-13T04:44:21.686698
+death,REG-0169,Mark Mcneil,,East Rebecca,,,,Natural,2025-11-13T04:44:21.687537
+death,REG-0170,Michael Reyes,,Padillafurt,,,,Natural,2025-11-13T04:44:21.687913
+death,REG-0171,Lisa Wilkerson,,Lisamouth,,,,Disease,2025-11-13T04:44:21.688267
+birth,REG-0172,Lisa Roberts,1950-10-11,Tarachester,F,Timothy Wilson,Janet Carter,,2025-11-13T04:44:21.688575
+birth,REG-0173,Tracey Matthews,2007-01-08,East Robertahaven,M,Dakota Fitzgerald,Kathleen Ramirez,,2025-11-13T04:44:21.689318
+birth,REG-0174,Marcus Ashley,1963-09-19,Robertberg,M,James Clarke,Carla Wilson,,2025-11-13T04:44:21.690029
+birth,REG-0175,Tim Ortiz,1971-09-11,Englishport,M,Nathan Hunt,Sarah Moore,,2025-11-13T04:44:21.690794
+death,REG-0176,Felicia Robinson,,Shannontown,,,,Accident,2025-11-13T04:44:21.691525
+death,REG-0177,Matthew Holden,,South Moniquefort,,,,Unknown,2025-11-13T04:44:21.691864
+birth,REG-0178,Angela Boyd,2023-06-02,West Jon,F,Charles Crawford,Lisa Davenport,,2025-11-13T04:44:21.692164
+birth,REG-0179,Brenda Larson,1959-11-13,Stephanieburgh,F,Charles Murphy,Ann Gross,,2025-11-13T04:44:21.692899
+birth,REG-0180,Sierra Chavez,1969-03-24,Port Stephen,F,Michael Sawyer,Olivia Moore,,2025-11-13T04:44:21.693746
+birth,REG-0181,Timothy Robles,2003-03-13,North Samantha,M,Andrew Willis,Anita Sanford,,2025-11-13T04:44:21.694495
+death,REG-0182,Timothy Glover,,Dianechester,,,,Natural,2025-11-13T04:44:21.695270
+birth,REG-0183,Joyce Burnett,2024-07-21,Roberthaven,M,Rickey Adams,Nicole Hernandez DDS,,2025-11-13T04:44:21.695581
+death,REG-0184,Brad Robinson,,East Stephanie,,,,Disease,2025-11-13T04:44:21.696447
+birth,REG-0185,Mr. William Wolf PhD,2003-07-03,Davidside,O,Ryan Walters,Krista Atkinson,,2025-11-13T04:44:21.696835
+death,REG-0186,Sarah Barron,,Cunninghamshire,,,,Disease,2025-11-13T04:44:21.697748
+birth,REG-0187,Sarah Watts,2002-09-26,South Michael,M,John Daniel,Melanie Gray,,2025-11-13T04:44:21.698101
+birth,REG-0188,Tyrone Ryan,2008-05-31,Port Brenda,M,Benjamin Turner,Toni Carr,,2025-11-13T04:44:21.698848
+birth,REG-0189,Jessica Black,2012-07-03,Lake Melissa,M,Jesse Taylor,Ashley Nelson,,2025-11-13T04:44:21.699595
+birth,REG-0190,Andrea Hull,1971-03-15,Brettmouth,O,Isaiah Norris,Margaret Chen,,2025-11-13T04:44:21.708517
+death,REG-0191,Edward Jenkins,,Port Diane,,,,Accident,2025-11-13T04:44:21.709278
+death,REG-0192,Craig Ramos,,West Douglas,,,,Unknown,2025-11-13T04:44:21.709621
+birth,REG-0193,George Garcia,2000-10-16,Ashleybury,M,David Kirby,Mary Carter,,2025-11-13T04:44:21.709964
+death,REG-0194,Juan Carlson,,Brownville,,,,Natural,2025-11-13T04:44:21.710742
+birth,REG-0195,Lindsey Hoffman,1982-06-15,Martinezberg,O,Tanner Harris,Debra Thomas,,2025-11-13T04:44:21.711121
+death,REG-0196,Todd Simpson,,Teresaland,,,,Unknown,2025-11-13T04:44:21.711938
+death,REG-0197,Christopher Collins,,Michaelburgh,,,,Accident,2025-11-13T04:44:21.712262
+death,REG-0198,Paul Wood,,Carterburgh,,,,Disease,2025-11-13T04:44:21.712713
+death,REG-0199,Jeanette West,,Sanchezhaven,,,,Disease,2025-11-13T04:44:21.713142
+birth,REG-0200,Angelica Bryant,2007-12-31,Wendyfort,O,John Jackson,Elizabeth Drake,,2025-11-13T04:44:21.713485
+death,REG-0201,Theresa Williams,,New Sara,,,,Accident,2025-11-13T04:44:21.714336
+birth,REG-0202,Mr. Theodore King,2005-10-22,North Kelly,F,Ronald Hensley,Sandra Harris,,2025-11-13T04:44:21.714662
+death,REG-0203,Jay Ortiz,,Port Shannonside,,,,Accident,2025-11-13T04:44:21.715412
+death,REG-0204,Frederick Gonzalez,,East Jameschester,,,,Natural,2025-11-13T04:44:21.715739
+birth,REG-0205,Mrs. Linda Baker,1950-02-20,East Kathyville,O,Michael Perkins,Tiffany Barrera,,2025-11-13T04:44:21.716147
+death,REG-0206,Christy Banks,,New Allison,,,,Unknown,2025-11-13T04:44:21.716922
+birth,REG-0207,Monique Jones,1987-05-22,South Robertbury,F,Michael Howard,Teresa Harper,,2025-11-13T04:44:21.717277
+death,REG-0208,Eric Ramos,,Lake Davidburgh,,,,Natural,2025-11-13T04:44:21.718111
+death,REG-0209,Alexander Graham,,Jamesfort,,,,Accident,2025-11-13T04:44:21.718469
+death,REG-0210,Tom Odonnell,,Savannahburgh,,,,Accident,2025-11-13T04:44:21.718771
+death,REG-0211,Wayne Johnson,,North Jesusport,,,,Accident,2025-11-13T04:44:21.719066
+death,REG-0212,Norman Hughes,,Lake Kyleburgh,,,,Unknown,2025-11-13T04:44:21.719388
+death,REG-0213,Thomas Goodwin,,Williamtown,,,,Accident,2025-11-13T04:44:21.719708
+birth,REG-0214,Stephanie Ryan,1995-08-25,East Jacqueline,M,Jaime Lopez,Cindy Mcdonald,,2025-11-13T04:44:21.720031
+birth,REG-0215,Amy Floyd,1976-09-25,West Timothyshire,M,Eric Warren,Andrea Garcia,,2025-11-13T04:44:21.720777
+birth,REG-0216,Ronnie Avila,2019-12-19,East Leahfort,M,Dalton Ortiz,Melissa Hall,,2025-11-13T04:44:21.721479
+birth,REG-0217,Priscilla Johnson,2019-04-15,Billyton,F,Steven Colon,Sherry Brown,,2025-11-13T04:44:21.722201
+death,REG-0218,Jordan Martinez,,Taylorville,,,,Unknown,2025-11-13T04:44:21.722960
+birth,REG-0219,Justin Pope,2006-02-21,Benjaminmouth,F,Brian Smith,Heather Murray,,2025-11-13T04:44:21.723262
+birth,REG-0220,Robert Reyes,1959-05-26,Brandonside,M,David Thomas,Ann Everett,,2025-11-13T04:44:21.724010
+death,REG-0221,Steven Thomas,,East William,,,,Accident,2025-11-13T04:44:21.724763
+birth,REG-0222,Christopher Sweeney,2016-02-15,Alexaton,F,Gilbert Greene MD,Erica Hernandez,,2025-11-13T04:44:21.725101
+death,REG-0223,Donna Park DDS,,Odonnellshire,,,,Unknown,2025-11-13T04:44:21.725851
+birth,REG-0224,Haley Thomas,1972-10-18,Carlsontown,M,Nathan Woodward,Courtney Howard,,2025-11-13T04:44:21.726221
+birth,REG-0225,Shannon Smith,1949-01-24,Allenside,O,Anthony Browning,Olivia Wilkerson,,2025-11-13T04:44:21.726915
+birth,REG-0226,Nicholas Santana,1980-06-20,Bernardland,O,Kyle Myers,Amanda Williams,,2025-11-13T04:44:21.727899
+death,REG-0227,Ernest Rodriguez,,East Bobby,,,,Natural,2025-11-13T04:44:21.728983
+birth,REG-0228,Ashley Oneal,1971-10-02,West Lisa,M,Manuel Moody,Ms. Sherry Castillo,,2025-11-13T04:44:21.729335
+death,REG-0229,Max Koch,,North Saraland,,,,Disease,2025-11-13T04:44:21.730137
+birth,REG-0230,Miss Michelle Saunders,1962-07-22,Sarahaven,F,Christian Brown,Taylor Meyer,,2025-11-13T04:44:21.730566
+death,REG-0231,John Campbell,,Horneborough,,,,Accident,2025-11-13T04:44:21.731328
+death,REG-0232,Martin Ballard,,Stephanieton,,,,Natural,2025-11-13T04:44:21.731701
+death,REG-0233,Shelby Evans,,Stephentown,,,,Natural,2025-11-13T04:44:21.732012
+birth,REG-0234,Brandon Wheeler,1956-04-01,Stanleyside,F,Henry Arnold,April Ortiz,,2025-11-13T04:44:21.732375
+birth,REG-0235,Jody Arias,1946-11-04,West Jamiestad,M,Jeffrey Jones,Lisa Powell MD,,2025-11-13T04:44:21.733146
+death,REG-0236,Rhonda Oliver,,Pearsonmouth,,,,Accident,2025-11-13T04:44:21.733931
+death,REG-0237,Keith Boyd,,Lake Haileychester,,,,Natural,2025-11-13T04:44:21.734240
+birth,REG-0238,Jade Burns,1981-11-23,North Christophershire,M,Christopher Franklin,Sara Benjamin,,2025-11-13T04:44:21.734543
+birth,REG-0239,Ryan Lee,2004-11-01,Lake Stacy,M,Patrick Wright,Darlene Soto,,2025-11-13T04:44:21.735270
+death,REG-0240,Charles Ross,,North Earlbury,,,,Natural,2025-11-13T04:44:21.736161
+death,REG-0241,Anthony Bell,,Dorothybury,,,,Disease,2025-11-13T04:44:21.736502
+birth,REG-0242,Joanne Weaver,1944-11-28,Lake Fernandoville,F,William Mejia,Natalie Klein,,2025-11-13T04:44:21.736828
+birth,REG-0243,Dr. Richard Heath,1955-08-17,West Gregoryburgh,M,Dakota Williams,Tami Lopez,,2025-11-13T04:44:21.737613
+birth,REG-0244,Eric Kennedy,2015-06-21,Jacobsfort,M,Eric Odonnell,Terri Smith,,2025-11-13T04:44:21.738526
+death,REG-0245,Joshua Spencer,,Arellanoton,,,,Accident,2025-11-13T04:44:21.739353
+birth,REG-0246,Jennifer Hansen,1976-12-31,Meganfurt,O,Matthew Velasquez,Dr. Lori Stone,,2025-11-13T04:44:21.739702
+death,REG-0247,Matthew Morgan,,North Justin,,,,Accident,2025-11-13T04:44:21.740479
+birth,REG-0248,Christopher Cantrell,2005-07-29,New Melanietown,F,Allen Smith,Crystal Kelly,,2025-11-13T04:44:21.740791
+birth,REG-0249,Jane Barry,1950-05-19,North Cheryl,F,Walter Meyer,Valerie Martin,,2025-11-13T04:44:21.741552
+birth,REG-0250,Glenn Carson,1992-04-14,Royhaven,O,Arthur Mcconnell,Ashley Ruiz,,2025-11-13T04:44:21.742295
+birth,REG-0251,Kimberly Andrade,1978-04-05,Rachelfort,O,Justin King,Kendra Kennedy,,2025-11-13T04:44:21.743081
+death,REG-0252,Jean Walls,,Ericborough,,,,Natural,2025-11-13T04:44:21.743849
+birth,REG-0253,Deborah Cuevas,1953-08-19,West Timothychester,M,Michael Morrison,Lori Chan,,2025-11-13T04:44:21.744162
+birth,REG-0254,Carrie Williams,1979-06-23,North Heather,O,Randy Jones,Terry Foley,,2025-11-13T04:44:21.744895
+birth,REG-0255,Tommy Vargas,2016-04-10,Mcintoshborough,O,Dalton Parrish,Amy Howell,,2025-11-13T04:44:21.745671
+birth,REG-0256,Christine Lewis,1947-05-02,South Victoria,F,William Hayes,Natasha Rasmussen,,2025-11-13T04:44:21.746378
+birth,REG-0257,Thomas Wise,1959-04-14,Garciastad,F,Frank Joyce,Nina Cooley,,2025-11-13T04:44:21.747159
+death,REG-0258,John Hooper,,North Gregory,,,,Unknown,2025-11-13T04:44:21.747906
+death,REG-0259,Lisa Williams,,East Albertborough,,,,Natural,2025-11-13T04:44:21.748226
+death,REG-0260,Hannah Livingston DDS,,West Coreybury,,,,Accident,2025-11-13T04:44:21.748674
+death,REG-0261,Darlene Evans,,Mccoyport,,,,Unknown,2025-11-13T04:44:21.749073
+birth,REG-0262,Katherine Jackson,1959-05-22,Munozland,O,Robert Pennington,Sheena Clay,,2025-11-13T04:44:21.749422
+birth,REG-0263,Jeffrey Chavez,2002-01-27,South Erikview,M,Eric Garcia,Mrs. Melissa Richardson,,2025-11-13T04:44:21.750155
+birth,REG-0264,James Rodriguez,1980-10-14,Jacksonmouth,F,Tristan Schultz,Mrs. Susan Smith,,2025-11-13T04:44:21.750898
+death,REG-0265,Megan Austin,,Robertfurt,,,,Unknown,2025-11-13T04:44:21.751652
+birth,REG-0266,Michael Weaver,1970-11-21,Dennismouth,M,James Gray,Valerie Mejia,,2025-11-13T04:44:21.751995
+death,REG-0267,Matthew Nunez,,West Jennifer,,,,Unknown,2025-11-13T04:44:21.752722
+death,REG-0268,Samantha English DVM,,Davilaland,,,,Unknown,2025-11-13T04:44:21.753073
+birth,REG-0269,Darlene Boyer,1991-02-23,Port Mariah,F,Joseph Austin,Rebecca Williams MD,,2025-11-13T04:44:21.753404
+birth,REG-0270,Casey Bush,1956-11-28,North Nicholas,O,Jermaine Smith,Katherine Moon,,2025-11-13T04:44:21.754127
+death,REG-0271,Kelly Alvarado,,Annechester,,,,Accident,2025-11-13T04:44:21.754857
+birth,REG-0272,Adriana Owens,2016-05-05,Erinfurt,M,Jared Elliott,Ashlee Walker,,2025-11-13T04:44:21.755157
+death,REG-0273,Regina Rocha,,Churchhaven,,,,Natural,2025-11-13T04:44:21.755949
+death,REG-0274,Jonathan Hughes,,Ryantown,,,,Accident,2025-11-13T04:44:21.756253
+birth,REG-0275,Donna Smith,1982-05-07,South Charlesview,O,Ricky Boyd,Jasmine Bowers,,2025-11-13T04:44:21.756553
+birth,REG-0276,John Keller,1984-05-10,Richardmouth,O,Michael Sanchez,Rebecca King,,2025-11-13T04:44:21.757294
+death,REG-0277,John Kennedy,,Lake Carla,,,,Unknown,2025-11-13T04:44:21.758019
+birth,REG-0278,Mackenzie Rosario,2020-03-01,North Troyfort,F,Michael Roman,Ashley Ortiz,,2025-11-13T04:44:21.758330
+birth,REG-0279,Logan Burton,2008-01-27,Lake Lorraine,F,Robert Murphy,Victoria Lyons,,2025-11-13T04:44:21.759169
+death,REG-0280,Maria Crawford,,North Michael,,,,Disease,2025-11-13T04:44:21.759904
+death,REG-0281,Corey Cooper,,East Robertfort,,,,Natural,2025-11-13T04:44:21.760322
+birth,REG-0282,Jennifer Fleming,2010-09-09,East Joseph,F,Kevin Peterson,Connie Wade MD,,2025-11-13T04:44:21.760637
+death,REG-0283,Jessica Mora,,Trevorhaven,,,,Natural,2025-11-13T04:44:21.761372
+death,REG-0284,Danielle Roberts,,South Sally,,,,Unknown,2025-11-13T04:44:21.761673
+birth,REG-0285,Veronica Griffin,1972-05-03,West Christiantown,F,Timothy Robinson,Marie Barker,,2025-11-13T04:44:21.761973
+birth,REG-0286,Sydney Dennis,1967-10-04,Kleinfurt,F,Edwin Booth,Crystal Miller,,2025-11-13T04:44:21.762734
+birth,REG-0287,Eric Stevenson,1970-02-28,Vancefort,F,Michael Goodwin,Erin Carter,,2025-11-13T04:44:21.763495
+birth,REG-0288,James Rice,1950-06-12,Jacksonmouth,F,Steven Hernandez,Kathleen Rodriguez,,2025-11-13T04:44:21.764403
+death,REG-0289,Paul Fernandez,,Smithfurt,,,,Accident,2025-11-13T04:44:21.765163
+birth,REG-0290,Jonathan Baker,1972-04-16,Port Danielberg,F,Brian Robinson,Julie Petty,,2025-11-13T04:44:21.765489
+death,REG-0291,Savannah Lewis,,West William,,,,Natural,2025-11-13T04:44:21.766189
+death,REG-0292,Kristina Lopez,,Newmanborough,,,,Disease,2025-11-13T04:44:21.766546
+birth,REG-0293,George Wilkins,1987-08-30,Hernandezshire,O,David Graham,Kristin Byrd,,2025-11-13T04:44:21.766885
+birth,REG-0294,Rickey Tyler,1962-11-28,Nixonbury,F,Jeffery Horn,Nancy Yates,,2025-11-13T04:44:21.767654
+birth,REG-0295,Ronnie Lopez,1988-07-19,Lake Brianside,M,Timothy Rodriguez,Alexandra Jensen,,2025-11-13T04:44:21.768369
+birth,REG-0296,Jennifer Hutchinson,2025-10-05,North Joy,M,William Gonzalez,Sheena Love,,2025-11-13T04:44:21.769272
+birth,REG-0297,Jesus Smith DVM,1969-01-11,Barbaramouth,M,Phillip Ritter,Danielle Baker,,2025-11-13T04:44:21.770039
+death,REG-0298,Tiffany Hale,,West Kiaraside,,,,Accident,2025-11-13T04:44:21.770749
+death,REG-0299,Maureen Parks,,Benjaminland,,,,Unknown,2025-11-13T04:44:21.771048
+death,REG-0300,Christopher Brown,,Lake Michaelburgh,,,,Natural,2025-11-13T04:44:21.771343
+birth,REG-0301,Patrick Hill,2011-01-12,New Arthurville,O,Christopher Soto,Amy Silva,,2025-11-13T04:44:21.771659
+death,REG-0302,Christopher Thompson,,Annetteburgh,,,,Unknown,2025-11-13T04:44:21.772350
+birth,REG-0303,Jennifer Cruz,1948-10-30,Jonathanside,O,Rodney Pierce,Jillian Cook,,2025-11-13T04:44:21.772646
+death,REG-0304,Douglas Martin,,Baileyton,,,,Natural,2025-11-13T04:44:21.773374
+birth,REG-0305,Samantha Cole,2014-03-27,Lauraport,M,Dustin Smith,Nancy Garcia,,2025-11-13T04:44:21.773674
+death,REG-0306,Edwin Young,,Adamshire,,,,Accident,2025-11-13T04:44:21.774354
+birth,REG-0307,Darryl Tapia,1972-07-07,Lisaland,O,Corey Hughes,Theresa Alvarado,,2025-11-13T04:44:21.774645
+death,REG-0308,Marisa Brooks,,West Hayley,,,,Disease,2025-11-13T04:44:21.775325
+birth,REG-0309,Thomas Foster,2003-12-17,Leachmouth,O,Timothy Hale,Anna Gamble,,2025-11-13T04:44:21.775675
+death,REG-0310,Tonya Lambert,,Virginiaton,,,,Natural,2025-11-13T04:44:21.776361
+birth,REG-0311,Daniel Malone,2025-05-29,East Catherinetown,O,Todd Williams,Kristen Greer,,2025-11-13T04:44:21.776699
+death,REG-0312,Charlene Morse,,Richardston,,,,Natural,2025-11-13T04:44:21.777424
+death,REG-0313,Michelle Buchanan,,Amandatown,,,,Accident,2025-11-13T04:44:21.777721
+death,REG-0314,Nicole Young,,East Jaime,,,,Accident,2025-11-13T04:44:21.778028
+birth,REG-0315,Jeffrey Petersen,1945-01-28,Adrianaberg,F,Douglas Duran,Lisa Miller,,2025-11-13T04:44:21.778321
+death,REG-0316,Stacy Cooper DVM,,Sierraburgh,,,,Accident,2025-11-13T04:44:21.779124
+birth,REG-0317,Ricardo Davis,2002-03-15,New Amandastad,O,Adam Jenkins,Valerie Mclaughlin,,2025-11-13T04:44:21.779500
+birth,REG-0318,Natalie Howard,1945-06-17,Martinfurt,M,Scott Johnson,Jessica Johnson,,2025-11-13T04:44:21.780388
+birth,REG-0319,Tara Wheeler,1975-02-27,West Pamela,O,Robert Norman,Amy Wells,,2025-11-13T04:44:21.781096
+birth,REG-0320,Jeremy Freeman,1984-08-11,Josephfort,F,Benjamin Hunter,Katrina Nunez,,2025-11-13T04:44:21.781783
+death,REG-0321,Dr. Joy Gomez MD,,Escobarfurt,,,,Natural,2025-11-13T04:44:21.782524
+birth,REG-0322,James Green,2025-08-10,New Anthonyland,F,Christopher Smith,Lauren Richardson,,2025-11-13T04:44:21.782823
+birth,REG-0323,Alexandria Rose,2025-09-10,West Patrickview,F,Dennis Mitchell,Heather Flores,,2025-11-13T04:44:21.783512
+birth,REG-0324,Shane Clark,1953-12-07,Adamville,O,Kenneth Gutierrez,Kelly Grimes,,2025-11-13T04:44:21.784222
+death,REG-0325,Robert Martinez,,Lunaport,,,,Unknown,2025-11-13T04:44:21.784939
+birth,REG-0326,Kristine Hoover,1992-07-28,Marvinhaven,M,Derek Robinson,Maria Nolan,,2025-11-13T04:44:21.785238
+birth,REG-0327,Kenneth Anderson,1991-07-27,South Ronnie,M,Edward Contreras,Jessica Turner,,2025-11-13T04:44:21.785914
+death,REG-0328,Kenneth Adams,,Dixonport,,,,Disease,2025-11-13T04:44:21.786634
+death,REG-0329,Shelly Carter,,Lake Deborahchester,,,,Disease,2025-11-13T04:44:21.786945
+birth,REG-0330,Kristopher Woods,1988-10-02,Morrismouth,F,Andrew Lara,Katelyn Crawford,,2025-11-13T04:44:21.787279
+death,REG-0331,Brenda Webster,,South Andrea,,,,Accident,2025-11-13T04:44:21.787983
+birth,REG-0332,Jose Guzman,1980-10-11,Ianburgh,F,Michael Cook,Jennifer Perez,,2025-11-13T04:44:21.788280
+birth,REG-0333,Carl Baker,1954-04-28,Morrisonhaven,M,Derek Sampson,Megan Padilla,,2025-11-13T04:44:21.789094
+birth,REG-0334,Matthew Thompson,1982-12-04,West Timothy,M,Joseph Lewis,Charlotte Hall,,2025-11-13T04:44:21.789808
+birth,REG-0335,Jason Chavez,1970-04-08,East Collintown,O,Jacob Curtis,Kimberly Gallagher,,2025-11-13T04:44:21.790499
+death,REG-0336,Toni Lane,,New Monique,,,,Natural,2025-11-13T04:44:21.791180
+death,REG-0337,Amy Reilly,,East Tyler,,,,Accident,2025-11-13T04:44:21.791478
+death,REG-0338,Micheal Ayala,,Port Mark,,,,Unknown,2025-11-13T04:44:21.791796
+death,REG-0339,Kenneth Miller,,Tracymouth,,,,Disease,2025-11-13T04:44:21.792091
+birth,REG-0340,Rebecca Campbell,1972-09-26,Wangbury,M,Brandon Davis,Tiffany Moyer,,2025-11-13T04:44:21.792428
+death,REG-0341,Corey Scott,,Lake Alyssamouth,,,,Unknown,2025-11-13T04:44:21.793115
+birth,REG-0342,Jerry Anderson,1984-11-29,Lake Heathershire,O,David Marks,Tanya Hardy,,2025-11-13T04:44:21.793412
+death,REG-0343,Margaret Ewing,,Lake Timothy,,,,Disease,2025-11-13T04:44:21.794197
+death,REG-0344,Keith Deleon,,North Krystal,,,,Natural,2025-11-13T04:44:21.794502
+death,REG-0345,Christine Smith,,Abigailburgh,,,,Accident,2025-11-13T04:44:21.794800
+birth,REG-0346,Vanessa Mosley,2024-02-13,Sandersland,F,Ricardo Romero,Amy Wise,,2025-11-13T04:44:21.795135
+death,REG-0347,Sarah Harper,,Lake Richardchester,,,,Disease,2025-11-13T04:44:21.795988
+death,REG-0348,Dawn Smith,,Lake Paulmouth,,,,Accident,2025-11-13T04:44:21.796317
+birth,REG-0349,Jennifer Simmons,1984-06-02,North Kevinfurt,F,Justin Brown,Sherry Carter,,2025-11-13T04:44:21.796624
+death,REG-0350,Madeline Miller,,Kathyview,,,,Accident,2025-11-13T04:44:21.797325
+birth,REG-0351,John Mclaughlin,1982-05-09,New Thomasport,O,Bryan Melendez,Rebecca Castillo,,2025-11-13T04:44:21.797624
+birth,REG-0352,Harold Moore,1966-05-05,Gonzalezhaven,F,Douglas Dunn,Heather Day,,2025-11-13T04:44:21.798346
+birth,REG-0353,Devin Jones,1972-02-10,Carterfort,O,Daniel Gregory,Mrs. Kimberly Woods,,2025-11-13T04:44:21.799071
+birth,REG-0354,Victoria Sheppard,2002-09-14,Tylermouth,O,Mark Willis,Kimberly Hurley,,2025-11-13T04:44:21.808176
+birth,REG-0355,Connie Walton,2016-03-25,Charlesville,M,Ryan Stevenson,Lori Herrera,,2025-11-13T04:44:21.808957
+death,REG-0356,Joel Smith,,Hendersonberg,,,,Accident,2025-11-13T04:44:21.809792
+birth,REG-0357,Joshua Garcia,2018-05-14,South Joanna,F,Walter Howard,Julie Flores MD,,2025-11-13T04:44:21.810106
+death,REG-0358,Stephanie Anderson,,Nicholashaven,,,,Accident,2025-11-13T04:44:21.810813
+birth,REG-0359,Nicole Wilson,1992-08-10,North Robertfurt,M,Mark Peters,Carla Walters,,2025-11-13T04:44:21.811118
+death,REG-0360,Lisa Smith,,East Paul,,,,Natural,2025-11-13T04:44:21.812105
+death,REG-0361,Ernest Thomas,,South Michaelshire,,,,Unknown,2025-11-13T04:44:21.812424
+birth,REG-0362,Christopher Morris,1970-08-16,South Shawnshire,O,Robert Hanson,Jessica Reed,,2025-11-13T04:44:21.812725
+birth,REG-0363,Charles Wood,2008-05-14,Zacharyburgh,M,Dennis Robinson,Angela Dean,,2025-11-13T04:44:21.813420
+birth,REG-0364,John Jones,1996-10-12,West Michealstad,F,John Hicks,Melissa Gonzalez,,2025-11-13T04:44:21.814104
+birth,REG-0365,Luis Stuart,1964-05-06,North Kevinton,F,Christopher Dunn,Sarah Davis,,2025-11-13T04:44:21.814783
+death,REG-0366,Eric Newman,,Hudsonbury,,,,Unknown,2025-11-13T04:44:21.815496
+death,REG-0367,Benjamin Bradley,,South Garystad,,,,Disease,2025-11-13T04:44:21.815872
+death,REG-0368,Samantha Chandler,,Shannonstad,,,,Unknown,2025-11-13T04:44:21.816187
+death,REG-0369,Amy Hester,,New Angela,,,,Disease,2025-11-13T04:44:21.816491
+birth,REG-0370,Shelia Herring,1947-06-23,West Michelle,M,Barry Rosario,Sabrina Wells,,2025-11-13T04:44:21.816788
+death,REG-0371,Kaylee Boyd,,Port Lorimouth,,,,Disease,2025-11-13T04:44:21.817721
+birth,REG-0372,Alicia Henry,2006-10-18,Pattersonside,F,Joseph Smith,Ariana Mcdonald,,2025-11-13T04:44:21.818094
+death,REG-0373,Jessica Anderson,,Mirandashire,,,,Unknown,2025-11-13T04:44:21.818834
+death,REG-0374,Rachel Yang,,Coxstad,,,,Accident,2025-11-13T04:44:21.819168
+birth,REG-0375,Alex Hernandez,2014-07-06,North Kelseyton,O,Philip Hammond,Nicole Hernandez,,2025-11-13T04:44:21.819464
+birth,REG-0376,Stephen Perez,2022-10-19,East Bryanberg,O,Paul Matthews,Lisa Contreras,,2025-11-13T04:44:21.820313
+birth,REG-0377,Michelle Baldwin,1959-11-22,Port Jonathanfurt,F,Daniel Morales,Michelle Chen,,2025-11-13T04:44:21.821023
+death,REG-0378,Charles Reese,,North Melinda,,,,Natural,2025-11-13T04:44:21.821941
+death,REG-0379,Patrick Black,,East Catherinestad,,,,Disease,2025-11-13T04:44:21.822363
+death,REG-0380,Samantha Gonzalez,,West Benjamin,,,,Natural,2025-11-13T04:44:21.822719
+birth,REG-0381,Alvin Livingston,1963-07-10,South Melissa,M,Andrew Holmes,Jessica Ruiz,,2025-11-13T04:44:21.823022
+birth,REG-0382,Johnny Riley,1959-03-24,Scottton,O,Michael White,Wendy Long,,2025-11-13T04:44:21.823817
+death,REG-0383,Chris Reynolds,,West Luis,,,,Natural,2025-11-13T04:44:21.824522
+death,REG-0384,Christopher Banks,,Robinsonberg,,,,Accident,2025-11-13T04:44:21.824889
+death,REG-0385,Jennifer Oconnell,,West Ericabury,,,,Natural,2025-11-13T04:44:21.825200
+birth,REG-0386,Eric Mcgee,1982-09-01,Byrdhaven,F,Martin Murphy,Amber Ward,,2025-11-13T04:44:21.825535
+death,REG-0387,April Dixon,,Donaldbury,,,,Natural,2025-11-13T04:44:21.826281
+birth,REG-0388,Joseph Valdez,1948-09-03,West Holly,F,Jonathan Lin,Doris Mora,,2025-11-13T04:44:21.826582
+death,REG-0389,Jessica Perkins,,Sherishire,,,,Natural,2025-11-13T04:44:21.827323
+death,REG-0390,Eric Rogers,,Madisonton,,,,Unknown,2025-11-13T04:44:21.827786
+death,REG-0391,Angie Ingram DDS,,Lake Nancybury,,,,Unknown,2025-11-13T04:44:21.828162
+birth,REG-0392,Rebecca Moran,2011-08-26,Smithfurt,M,John Rowe,Melissa Ramos,,2025-11-13T04:44:21.828513
+birth,REG-0393,Michael Obrien,2006-03-03,Lake Chelsea,M,Wayne Smith,Marie James,,2025-11-13T04:44:21.829344
+birth,REG-0394,Michael Phillips,1947-07-14,Johnmouth,M,Jonathan Taylor,Rebecca Chaney,,2025-11-13T04:44:21.830219
+birth,REG-0395,Thomas York,1958-01-21,Port Michael,F,Donald Sutton,Jennifer Hill,,2025-11-13T04:44:21.831254
+birth,REG-0396,Nancy Thompson,2024-05-16,Lake Benjaminmouth,F,Mark Jones,Elizabeth Gomez,,2025-11-13T04:44:21.832288
+birth,REG-0397,Rachel Johnston,1999-01-26,Rhondaton,M,Albert Thompson,Casey Guerra,,2025-11-13T04:44:21.833017
+birth,REG-0398,Sean Powers,1983-08-28,Torresshire,O,Austin Gibson,Kathy Odonnell,,2025-11-13T04:44:21.833740
+birth,REG-0399,Ronald Sandoval,2017-04-01,Ramirezport,M,Brent Austin,Carla Pierce,,2025-11-13T04:44:21.834523
+birth,REG-0400,Zachary Garcia,1979-08-10,Cabrerashire,F,Jack Davies,Laura Williams,,2025-11-13T04:44:21.835265
+birth,REG-0401,Scott Barnes,2016-04-19,Stewartberg,O,Randy Williams,Terry Nunez,,2025-11-13T04:44:21.836038
+death,REG-0402,Jennifer Taylor,,Pottershire,,,,Disease,2025-11-13T04:44:21.836950
+death,REG-0403,Scott Lee,,West Nancy,,,,Unknown,2025-11-13T04:44:21.837351
+death,REG-0404,Jaime Salazar,,Mirandamouth,,,,Accident,2025-11-13T04:44:21.837698
+death,REG-0405,Albert Williams,,Lake Jenna,,,,Disease,2025-11-13T04:44:21.838028
+birth,REG-0406,Michelle Anderson,1981-04-09,Jamesside,F,William Roberts,Katherine Clark,,2025-11-13T04:44:21.838573
+death,REG-0407,Michael Whitaker,,Port Nicoleland,,,,Unknown,2025-11-13T04:44:21.839835
+birth,REG-0408,Miss Jessica Bailey,2014-08-28,East Kimberlymouth,M,Ryan Hayes,Victoria Huynh,,2025-11-13T04:44:21.840317
+death,REG-0409,Norman Taylor,,North Jacobberg,,,,Unknown,2025-11-13T04:44:21.841129
+death,REG-0410,John Castillo,,Reyesfort,,,,Natural,2025-11-13T04:44:21.841474
+death,REG-0411,Maria Henry MD,,Longfort,,,,Accident,2025-11-13T04:44:21.841822
+death,REG-0412,Howard Smith,,Lake Laurie,,,,Disease,2025-11-13T04:44:21.842132
+death,REG-0413,Daniel Wilson,,South Eddie,,,,Accident,2025-11-13T04:44:21.842434
+birth,REG-0414,Steven Juarez,1968-03-13,Michaelstad,O,James Tucker,Diana Coleman,,2025-11-13T04:44:21.842725
+birth,REG-0415,Rachel Allison,1992-04-10,North Christina,F,Alan Williams,Mary Fox,,2025-11-13T04:44:21.843494
+birth,REG-0416,Richard Jones,1946-05-17,Jessicamouth,F,Richard Haynes,Diane Reilly,,2025-11-13T04:44:21.844276
+birth,REG-0417,Wendy Martin,2020-08-12,Hallmouth,O,Robert Santos,Catherine Brennan,,2025-11-13T04:44:21.845347
+death,REG-0418,Stephen Hines,,Keithstad,,,,Natural,2025-11-13T04:44:21.846345
+death,REG-0419,Richard Lane,,Jenniferchester,,,,Natural,2025-11-13T04:44:21.846761
+birth,REG-0420,Dylan Moore,1997-02-12,North Cory,F,Kevin Moore,Jennifer Brown,,2025-11-13T04:44:21.847173
+death,REG-0421,Eric Jones MD,,Jonesville,,,,Natural,2025-11-13T04:44:21.848176
+birth,REG-0422,David Hoffman,1981-12-04,South Kyleville,M,Robert Keith,Debra Griffin,,2025-11-13T04:44:21.848633
+death,REG-0423,Andrea Swanson,,Lawsonhaven,,,,Unknown,2025-11-13T04:44:21.849842
+death,REG-0424,Mr. Christian Clayton Jr.,,Lambborough,,,,Unknown,2025-11-13T04:44:21.850560
+birth,REG-0425,Stephanie Fisher,2022-01-11,North Pedro,M,William Church,Valerie Gamble,,2025-11-13T04:44:21.851186
+death,REG-0426,David Clark,,Whitneystad,,,,Unknown,2025-11-13T04:44:21.852555
+death,REG-0427,Andrew Carter,,Lake Teresaview,,,,Disease,2025-11-13T04:44:21.853142
+birth,REG-0428,Veronica Jensen,2013-09-23,North Pamelamouth,O,Donald Martinez,Sandra Butler,,2025-11-13T04:44:21.853477
+death,REG-0429,Stacey Bowman,,Taylormouth,,,,Natural,2025-11-13T04:44:21.854253
+birth,REG-0430,Kimberly Carroll,1980-02-16,Haydenstad,M,Matthew Mccann,Paige Harris,,2025-11-13T04:44:21.854602
+birth,REG-0431,Jeff Hardy,2009-06-23,Samanthafurt,M,Anthony Mcclain,Elizabeth Butler,,2025-11-13T04:44:21.855338
+death,REG-0432,Matthew Bush,,Mcgeestad,,,,Accident,2025-11-13T04:44:21.856134
+birth,REG-0433,Meredith Schmidt,2023-08-22,South Daniel,M,Mr. Leroy Avery,Kelly Carter,,2025-11-13T04:44:21.856486
+birth,REG-0434,Susan Anderson,2024-11-27,Teresafurt,F,Christopher Thompson,Susan Davis,,2025-11-13T04:44:21.857210
+death,REG-0435,Samantha Rojas,,East Ronald,,,,Accident,2025-11-13T04:44:21.857927
+death,REG-0436,Lisa Williams,,South Monica,,,,Natural,2025-11-13T04:44:21.858228
+birth,REG-0437,Richard Taylor,1985-04-01,East Joyland,O,Dominic Johnson,Maria Hardy,,2025-11-13T04:44:21.858533
+birth,REG-0438,David Bishop,1995-03-22,West Charlesview,O,Patrick Dennis,Margaret Santos,,2025-11-13T04:44:21.859358
+birth,REG-0439,Sandra Woods,1974-03-07,North Emilymouth,F,Brian Robinson,Mackenzie Rhodes,,2025-11-13T04:44:21.860189
+birth,REG-0440,Pamela Parks,1947-04-16,Port Lisa,M,Harold Williams,Mrs. Nancy Diaz,,2025-11-13T04:44:21.861197
+birth,REG-0441,Peter Vaughn,1988-01-09,Huangfort,F,Mr. David Weiss,Kelly Fowler,,2025-11-13T04:44:21.861997
+birth,REG-0442,Dana Williams,1993-12-06,South Kelli,O,Ryan Barton,Marissa Robinson,,2025-11-13T04:44:21.862757
+death,REG-0443,Christina Lyons,,Lake Nicole,,,,Unknown,2025-11-13T04:44:21.863473
+birth,REG-0444,Anthony Smith,2014-03-22,West George,O,Christian Stanley,Amy Cooper MD,,2025-11-13T04:44:21.863811
+death,REG-0445,Roberto Powell,,West Kurt,,,,Disease,2025-11-13T04:44:21.864541
+death,REG-0446,Clinton Adams,,Brockshire,,,,Unknown,2025-11-13T04:44:21.864878
+birth,REG-0447,David Martinez,1970-11-26,Laratown,F,Robert Henry,Sarah Lopez,,2025-11-13T04:44:21.865234
+death,REG-0448,Ms. Misty Clark,,Robertborough,,,,Disease,2025-11-13T04:44:21.865933
+birth,REG-0449,Steven Bryant,1956-05-01,Vazquezside,O,Gregory Larson,Amanda Kennedy,,2025-11-13T04:44:21.866284
+birth,REG-0450,Paul Kennedy,2011-02-20,Harveystad,O,William James,Carrie Hall,,2025-11-13T04:44:21.867014
+death,REG-0451,Melissa Norris,,Port Tammyside,,,,Disease,2025-11-13T04:44:21.867755
+birth,REG-0452,Robert Brown,2006-05-06,Sampsonmouth,O,Brian Lindsey,Becky Lucas DVM,,2025-11-13T04:44:21.868097
+death,REG-0453,Megan Hunter,,New Phillip,,,,Disease,2025-11-13T04:44:21.868826
+death,REG-0454,Matthew Ward,,Jenniferfort,,,,Disease,2025-11-13T04:44:21.869124
+birth,REG-0455,Joseph Smith,1970-09-28,Frankburgh,F,Shawn Holmes,Kayla Kaufman,,2025-11-13T04:44:21.869434
+death,REG-0456,Kenneth Campbell,,New Laura,,,,Disease,2025-11-13T04:44:21.870131
+death,REG-0457,Bryan Walker,,West Christina,,,,Accident,2025-11-13T04:44:21.870444
+birth,REG-0458,Sabrina Turner,1967-09-05,Jamesburgh,O,Justin Williams,Kimberly Marquez,,2025-11-13T04:44:21.870794
+death,REG-0459,Jamie Hunt,,North Billyberg,,,,Accident,2025-11-13T04:44:21.871677
+death,REG-0460,Marilyn Welch,,East Brent,,,,Unknown,2025-11-13T04:44:21.872227
+death,REG-0461,Joshua Santiago,,Gonzalezberg,,,,Unknown,2025-11-13T04:44:21.872842
+birth,REG-0462,Joel Myers,2009-07-03,West Brenda,F,Richard Hatfield,Denise Mendez,,2025-11-13T04:44:21.873244
+birth,REG-0463,Jeffrey Rogers,2018-07-02,Mooreview,O,Jonathan Smith,Heather Cabrera,,2025-11-13T04:44:21.874167
+death,REG-0464,Katherine Franklin,,North Matthew,,,,Accident,2025-11-13T04:44:21.875411
+death,REG-0465,Lisa Kim,,Davidfurt,,,,Accident,2025-11-13T04:44:21.875963
+birth,REG-0466,Andrea Myers,1956-12-05,Port Markmouth,F,Eric Carlson,Kristin Miller,,2025-11-13T04:44:21.876445
+birth,REG-0467,Emma Sparks,1988-08-03,New Meghan,M,Jamie Johnson,Cheryl Bowman,,2025-11-13T04:44:21.877491
+birth,REG-0468,Kendra Reynolds,1956-02-28,West Shannonchester,O,Steven Scott,Christina Cooper,,2025-11-13T04:44:21.878206
+birth,REG-0469,Eric Lee,2020-08-29,South Paul,M,Charles Hicks,Jamie Ochoa,,2025-11-13T04:44:21.878891
+death,REG-0470,Dustin Wilson,,Paynefort,,,,Accident,2025-11-13T04:44:21.879645
+death,REG-0471,Heather Farmer,,South Kristopher,,,,Accident,2025-11-13T04:44:21.879976
+birth,REG-0472,Kelly Kelly,2017-11-01,West Noahhaven,O,Keith Griffith,Nicole Gilmore,,2025-11-13T04:44:21.880276
+birth,REG-0473,Sarah Adams,2010-06-19,Mendozaburgh,F,Kevin Smith,Christine Harrell,,2025-11-13T04:44:21.881097
+birth,REG-0474,Benjamin Chung,2000-02-22,North Thomasview,O,James Sweeney,Angel Hall,,2025-11-13T04:44:21.881932
+death,REG-0475,Brandon Collier,,Crystalton,,,,Disease,2025-11-13T04:44:21.882671
+birth,REG-0476,Robert Suarez,1949-06-11,Christianstad,M,Johnny Hall,Nicole Johnson,,2025-11-13T04:44:21.882973
+death,REG-0477,Kyle Snow,,Port Kristen,,,,Natural,2025-11-13T04:44:21.883896
+death,REG-0478,Latasha Martinez,,Warnerbury,,,,Natural,2025-11-13T04:44:21.884355
+birth,REG-0479,Rebecca Harding,1947-08-08,Lake Tyler,M,Matthew Webb,Linda Tyler,,2025-11-13T04:44:21.884768
+death,REG-0480,Jennifer Reid,,Lake Jeremychester,,,,Natural,2025-11-13T04:44:21.885592
+death,REG-0481,Robyn Odonnell,,North Leonardborough,,,,Natural,2025-11-13T04:44:21.886035
+death,REG-0482,Haley Wiley,,Debraborough,,,,Natural,2025-11-13T04:44:21.886357
+death,REG-0483,Lee Williams,,Ianfurt,,,,Unknown,2025-11-13T04:44:21.886709
+birth,REG-0484,Casey Taylor,1967-01-14,West Vanessa,O,Logan Anderson,Ashley Church,,2025-11-13T04:44:21.887045
+birth,REG-0485,Scott Edwards,1963-01-02,Port Daniel,M,Kevin White,Kaitlyn Sullivan,,2025-11-13T04:44:21.887880
+birth,REG-0486,Tina Aguilar,2017-06-12,Millershire,O,Alec Rose,Danielle Phillips PhD,,2025-11-13T04:44:21.888680
+death,REG-0487,Daniel Moore,,East Anthony,,,,Disease,2025-11-13T04:44:21.889492
+death,REG-0488,Dakota Cooper,,Greggland,,,,Natural,2025-11-13T04:44:21.889828
+death,REG-0489,Oscar Parsons,,South Kevinport,,,,Natural,2025-11-13T04:44:21.890174
+birth,REG-0490,Mark Elliott,2014-03-22,Kimberlyburgh,O,Gabriel Marquez,Katherine Luna,,2025-11-13T04:44:21.890475
+death,REG-0491,Shannon Burns,,New Kristin,,,,Natural,2025-11-13T04:44:21.891490
+death,REG-0492,Kayla Williams,,East Jennifer,,,,Accident,2025-11-13T04:44:21.891859
+death,REG-0493,Samantha Rivera,,Port Davidborough,,,,Disease,2025-11-13T04:44:21.892227
+birth,REG-0494,Richard Bartlett,2014-01-21,Leahhaven,F,Corey Adams,Amanda Oneill,,2025-11-13T04:44:21.892534
+birth,REG-0495,Donna Mckee,1963-05-08,Lake Melissaborough,O,Bryan Tucker,Priscilla Evans,,2025-11-13T04:44:21.893298
+birth,REG-0496,Dylan Aguilar,1988-06-29,North Haley,O,Blake Ross,Michaela Miller,,2025-11-13T04:44:21.894172
+birth,REG-0497,Theresa Riggs,1978-12-24,Kristenbury,O,Mr. Tony Johnston,Amy Brooks,,2025-11-13T04:44:21.894950
+death,REG-0498,Victoria Leonard,,East Michaelfurt,,,,Disease,2025-11-13T04:44:21.895779
+birth,REG-0499,Paula Smith,1980-08-31,Kellymouth,O,Keith Wilson,Molly King,,2025-11-13T04:44:21.896150
+death,REG-0500,Kevin Hall,,Williamsland,,,,Unknown,2025-11-13T04:44:21.896981
+birth,REG-0501,Jesse Morales,1971-09-15,Maldonadoside,O,Matthew Pruitt,Kathleen Rogers,,2025-11-13T04:44:21.897345
+birth,REG-0502,Shelley Bullock,1986-05-18,Fergusonfurt,O,Christopher Coleman,Dana Taylor,,2025-11-13T04:44:21.898175
+death,REG-0503,Dr. Melissa Edwards MD,,Lowerymouth,,,,Disease,2025-11-13T04:44:21.899039
+death,REG-0504,Michael Green,,Orrfurt,,,,Disease,2025-11-13T04:44:21.899418
+death,REG-0505,Sydney Nichols,,Williamsshire,,,,Disease,2025-11-13T04:44:21.907879
+death,REG-0506,Scott Long,,Derekmouth,,,,Disease,2025-11-13T04:44:21.908248
+birth,REG-0507,Larry Sanders,1966-10-13,Drakebury,F,Edward Johnson,Ms. Kayla Jacobs MD,,2025-11-13T04:44:21.908676
+birth,REG-0508,Mark Escobar,2019-02-26,Port Jillside,O,Steven Woods,Melissa Graham,,2025-11-13T04:44:21.909492
+death,REG-0509,Dana Velasquez,,Alanmouth,,,,Disease,2025-11-13T04:44:21.910295
+birth,REG-0510,James Rivera,1977-11-29,New Kyle,M,Daniel Taylor,Suzanne Bennett,,2025-11-13T04:44:21.910671
+death,REG-0511,Jamie Rosario,,Kristenborough,,,,Accident,2025-11-13T04:44:21.911449
+death,REG-0512,Lauren Waller,,Evansview,,,,Unknown,2025-11-13T04:44:21.912042
+birth,REG-0513,Terri Bray,2009-07-04,New Alexanderfort,M,Thomas Hill,Danielle Nguyen,,2025-11-13T04:44:21.912375
+death,REG-0514,Dr. James Wilson MD,,Lake Kevin,,,,Unknown,2025-11-13T04:44:21.913248
+death,REG-0515,Deanna Rodgers,,Englishbury,,,,Natural,2025-11-13T04:44:21.913600
+birth,REG-0516,Charles Hunt,1969-03-21,Peterstown,F,Aaron Blackwell,Heidi Roach,,2025-11-13T04:44:21.914031
+birth,REG-0517,Mark Huffman,1985-08-09,Lake Nicoletown,O,Joshua Carson,Nicole Wade,,2025-11-13T04:44:21.914883
+death,REG-0518,Jennifer Rice,,North Melissa,,,,Accident,2025-11-13T04:44:21.915712
+birth,REG-0519,Joel Greene,1983-03-22,Salasberg,O,Jason Rose,Tracy Hicks,,2025-11-13T04:44:21.916157
+birth,REG-0520,Michael Manning,2025-11-07,East Amy,F,Anthony Shields MD,Tonya Ellis,,2025-11-13T04:44:21.916958
+death,REG-0521,Amber Mccall DVM,,South Johnfort,,,,Natural,2025-11-13T04:44:21.917799
+birth,REG-0522,Kaitlyn Ray,1955-08-29,Lopezmouth,O,Larry Wilson,Courtney Young,,2025-11-13T04:44:21.918173
+death,REG-0523,Carolyn Alvarez MD,,Hayesland,,,,Disease,2025-11-13T04:44:21.919014
+birth,REG-0524,Amy Kelley,1946-11-27,Diazside,M,Brian Barnett,Mary Barnett,,2025-11-13T04:44:21.919452
+birth,REG-0525,Kathleen Hawkins,1958-01-18,Port Victoriafort,M,Steven Figueroa,Jessica Pierce,,2025-11-13T04:44:21.920225
+death,REG-0526,Charles Griffin,,Elizabethport,,,,Natural,2025-11-13T04:44:21.921049
+death,REG-0527,Jeffrey Martinez,,New Kathleen,,,,Disease,2025-11-13T04:44:21.921352
+death,REG-0528,Ann Butler,,East Justinshire,,,,Unknown,2025-11-13T04:44:21.921820
+birth,REG-0529,Kaitlyn Underwood,1976-01-01,East Dianaborough,F,Howard Rangel,Meghan Arnold,,2025-11-13T04:44:21.922283
+death,REG-0530,Michael Roberts,,West Beverly,,,,Unknown,2025-11-13T04:44:21.923108
+birth,REG-0531,Michael Jacobs,1988-12-18,Stephenton,O,Thomas Reyes,Nicole Weaver,,2025-11-13T04:44:21.923414
+birth,REG-0532,Alexis Stark,2012-08-29,Danielport,F,Matthew Webb,Michelle Osborn,,2025-11-13T04:44:21.924249
+birth,REG-0533,Shannon Roman,1955-05-23,Katherineburgh,F,Todd Campbell,Marissa Simpson,,2025-11-13T04:44:21.925199
+death,REG-0534,Joel Sullivan,,Port Bradleymouth,,,,Unknown,2025-11-13T04:44:21.925948
+birth,REG-0535,Mark Carson,1977-09-27,Vazquezborough,M,Robert Conner,Judith Madden,,2025-11-13T04:44:21.926342
+death,REG-0536,Amber Ochoa,,South Laurieport,,,,Disease,2025-11-13T04:44:21.927107
+birth,REG-0537,Kendra Thompson,1977-10-09,Port Brianview,F,David Rowe,Brenda Le,,2025-11-13T04:44:21.927451
+birth,REG-0538,Christina Wallace,2005-03-20,Ryanhaven,F,Joseph Ellis,Victoria Dunn,,2025-11-13T04:44:21.928250
+death,REG-0539,Andrea Rodriguez,,New Glendafort,,,,Natural,2025-11-13T04:44:21.928975
+death,REG-0540,Joseph Robinson,,East Luis,,,,Unknown,2025-11-13T04:44:21.929352
+birth,REG-0541,Joseph Petty,2016-02-18,South Kimberly,M,Connor Horton,Colleen Miller,,2025-11-13T04:44:21.929743
+death,REG-0542,Daniel Ward,,East Melissabury,,,,Natural,2025-11-13T04:44:21.930524
+death,REG-0543,Melissa Gonzalez PhD,,Evansmouth,,,,Unknown,2025-11-13T04:44:21.930885
+birth,REG-0544,Rose Howard,1970-10-04,Katherinebury,M,Troy Campbell,Kathy Park,,2025-11-13T04:44:21.931184
+death,REG-0545,Sharon Wilson,,West Kimberlyville,,,,Accident,2025-11-13T04:44:21.932202
+birth,REG-0546,Janet Williams,1999-05-02,South Jessicaside,M,John Adams,Debbie Smith,,2025-11-13T04:44:21.932609
+death,REG-0547,Jessica Mathis,,Sandersfort,,,,Unknown,2025-11-13T04:44:21.933386
+birth,REG-0548,Maria Guerrero,1959-07-25,Wellsville,M,Philip Dawson,Leah Robertson,,2025-11-13T04:44:21.933883
+birth,REG-0549,Richard Garcia,1975-09-05,Port Jacksonberg,M,Christopher Clarke,Catherine Flores,,2025-11-13T04:44:21.934624
+birth,REG-0550,Stephen Crane,1956-06-16,Chadstad,M,Michael Nelson,Amanda Irwin,,2025-11-13T04:44:21.935348
+death,REG-0551,Cheyenne Williams,,Port Laura,,,,Disease,2025-11-13T04:44:21.936101
+birth,REG-0552,Melissa Moran,1997-05-01,Foleyfurt,F,Michael Robinson,Jasmin Duke,,2025-11-13T04:44:21.936448
+birth,REG-0553,Matthew Campbell,2025-02-12,Tannerborough,F,Edward Ferguson,Stephanie Mendoza,,2025-11-13T04:44:21.937223
+death,REG-0554,Shelby Wilson,,Kennethland,,,,Accident,2025-11-13T04:44:21.938147
+death,REG-0555,Matthew Guerrero,,Morganmouth,,,,Unknown,2025-11-13T04:44:21.938467
+death,REG-0556,Luis Martinez,,Longchester,,,,Accident,2025-11-13T04:44:21.938801
+death,REG-0557,Kevin Lowe,,Farleyberg,,,,Unknown,2025-11-13T04:44:21.939192
+birth,REG-0558,Tina Tucker,2011-01-10,Port Mia,O,Mr. Joe Russell,Sheila Everett,,2025-11-13T04:44:21.939535
+birth,REG-0559,Nicole Lynch,1966-05-21,Lake Jessicamouth,M,Robert Butler,Ashley Rodgers,,2025-11-13T04:44:21.940306
+death,REG-0560,Michael Horton,,Josephberg,,,,Unknown,2025-11-13T04:44:21.941043
+birth,REG-0561,Melissa Gardner,2004-05-12,North Lisa,M,Jose Green,Ms. Lindsey Wilson,,2025-11-13T04:44:21.941369
+birth,REG-0562,John Acosta,1982-12-09,North Todd,O,David Day,Kendra Walters,,2025-11-13T04:44:21.942080
+death,REG-0563,William Brown,,Lake Patricia,,,,Unknown,2025-11-13T04:44:21.942905
+death,REG-0564,Amy Johnson,,Joshuaton,,,,Natural,2025-11-13T04:44:21.943214
+death,REG-0565,Carlos Garrett,,Lake Marychester,,,,Unknown,2025-11-13T04:44:21.943533
+birth,REG-0566,Jeffrey Joseph,1969-05-07,Jennifermouth,F,Brandon Paul,Shelby Mckee,,2025-11-13T04:44:21.943858
+death,REG-0567,Margaret Hunt,,Lake Sarafurt,,,,Disease,2025-11-13T04:44:21.944572
+birth,REG-0568,Michelle Wang,2000-02-14,Jamieberg,F,Richard Burke,Jessica Barnett,,2025-11-13T04:44:21.944891
+death,REG-0569,Dustin Little,,Nancyfort,,,,Unknown,2025-11-13T04:44:21.945580
+death,REG-0570,Walter Taylor,,Troyville,,,,Natural,2025-11-13T04:44:21.945896
+birth,REG-0571,Angela Wallace,2014-04-20,South Erichaven,M,William Wilson,April Thomas,,2025-11-13T04:44:21.946203
+birth,REG-0572,Marvin Huang,1977-06-14,Reginaldville,F,Jerry Holder,Lori Griffin,,2025-11-13T04:44:21.946920
+death,REG-0573,Lisa Lewis,,New Gailport,,,,Accident,2025-11-13T04:44:21.947633
+death,REG-0574,Derrick Caldwell,,Port Charles,,,,Disease,2025-11-13T04:44:21.947956
+death,REG-0575,Ronald Graham,,Calvinchester,,,,Natural,2025-11-13T04:44:21.948253
+birth,REG-0576,Jessica Alexander,1996-06-04,North Kathy,M,Tyler Patton,Rachel Smith,,2025-11-13T04:44:21.948550
+death,REG-0577,Tyler Chambers,,Port William,,,,Natural,2025-11-13T04:44:21.949258
+death,REG-0578,Jennifer Jensen,,New Brianfurt,,,,Disease,2025-11-13T04:44:21.949605
+death,REG-0579,Cindy Lopez,,South Kaylee,,,,Unknown,2025-11-13T04:44:21.949906
+death,REG-0580,Allison Zimmerman,,South Melissashire,,,,Accident,2025-11-13T04:44:21.950233
+death,REG-0581,David Moran,,Alvarezbury,,,,Accident,2025-11-13T04:44:21.950569
+birth,REG-0582,Amber Martin,1981-08-30,Salasberg,F,Benjamin Jones,Kristen Rogers,,2025-11-13T04:44:21.950901
+birth,REG-0583,Loretta Hall,1952-07-31,New Michaelborough,O,Tyler Sloan,Vanessa Lopez,,2025-11-13T04:44:21.951643
+death,REG-0584,Joel Turner,,New Jamieton,,,,Natural,2025-11-13T04:44:21.952376
+death,REG-0585,Jill Mcdonald,,Port Jasontown,,,,Unknown,2025-11-13T04:44:21.952782
+death,REG-0586,Maria Franklin,,Millerburgh,,,,Accident,2025-11-13T04:44:21.953127
+death,REG-0587,Pamela Dennis,,Andreamouth,,,,Accident,2025-11-13T04:44:21.953460
+birth,REG-0588,Jordan Schneider,1993-02-24,Claytonland,F,Jason Richards,Mary Morales,,2025-11-13T04:44:21.953893
+death,REG-0589,Lori Mcmillan,,Zoefort,,,,Unknown,2025-11-13T04:44:21.954649
+death,REG-0590,Lauren Hooper,,Marisastad,,,,Accident,2025-11-13T04:44:21.954956
+birth,REG-0591,Kyle Murphy,2021-09-26,New Meganhaven,M,Eduardo Bailey,Dr. Rebecca Pearson DDS,,2025-11-13T04:44:21.955251
+birth,REG-0592,Nicole Reed,1954-06-24,Williamsstad,F,Ricky Dominguez,Martha Gutierrez,,2025-11-13T04:44:21.956086
+birth,REG-0593,Jeffery Moore,1956-05-04,Bradfordchester,M,Steven Jones,Jane Miller,,2025-11-13T04:44:21.956872
+birth,REG-0594,Crystal Blackwell,1992-10-22,East Christopher,O,Tyler Adams DDS,Natalie Gonzalez,,2025-11-13T04:44:21.957632
+death,REG-0595,Dalton Sullivan,,North Patrick,,,,Natural,2025-11-13T04:44:21.958368
+death,REG-0596,Veronica Brown,,Lake Timothyshire,,,,Disease,2025-11-13T04:44:21.958703
+death,REG-0597,Robert Watson,,South Karenstad,,,,Natural,2025-11-13T04:44:21.959006
+birth,REG-0598,Daniel Christian,1988-12-11,Heatherhaven,M,Jason Beasley,Stacy Roach,,2025-11-13T04:44:21.959298
+death,REG-0599,Tammy Clark,,Port Philliptown,,,,Disease,2025-11-13T04:44:21.960119
+birth,REG-0600,Amy Diaz,2015-12-22,Elizabethside,O,William Tran,Deborah Reed,,2025-11-13T04:44:21.960447
+birth,REG-0601,Mrs. Donna Smith,2017-09-07,Mitchellbury,M,Alex Petersen,Carolyn Newman,,2025-11-13T04:44:21.961368
+birth,REG-0602,Robert Daniel,1954-11-01,Leeview,F,Philip Mays,Sydney Gardner,,2025-11-13T04:44:21.962165
+birth,REG-0603,Kelsey Robinson,2007-12-15,East Jeffrey,F,Justin Schwartz,Margaret Carter,,2025-11-13T04:44:21.963013
+birth,REG-0604,Cynthia Patrick,2013-01-22,Hernandeztown,F,Charles Frey,Katherine Rodriguez,,2025-11-13T04:44:21.963844
+death,REG-0605,Richard Hoffman,,Lake Connieshire,,,,Accident,2025-11-13T04:44:21.964578
+birth,REG-0606,Hannah Jones,1990-12-22,Lake Danielletown,O,Christian Harris,Kathleen Kelley,,2025-11-13T04:44:21.964915
+death,REG-0607,Ryan Moore,,Port Jonathanshire,,,,Unknown,2025-11-13T04:44:21.965641
+birth,REG-0608,James Rodriguez,1950-09-05,New Courtney,O,Troy Arias,Sabrina Friedman,,2025-11-13T04:44:21.965971
+birth,REG-0609,Brian Harrington,1963-03-28,Johnfurt,M,James Contreras,Barbara Scott,,2025-11-13T04:44:21.966693
+birth,REG-0610,Shannon Gonzalez,1967-08-31,Francesstad,M,Anthony Moore,Shannon Smith,,2025-11-13T04:44:21.967442
+death,REG-0611,Richard Thomas,,East Jamesport,,,,Disease,2025-11-13T04:44:21.968191
+birth,REG-0612,Jeffrey Kennedy,2005-11-14,New Teresa,F,Andrew Ward,Hannah Robbins,,2025-11-13T04:44:21.968518
+birth,REG-0613,David Williamson,2025-01-23,West Sheenatown,M,Scott Woods MD,Laura Walker,,2025-11-13T04:44:21.969233
+death,REG-0614,Sandra Sanchez,,North Johnny,,,,Disease,2025-11-13T04:44:21.970125
+death,REG-0615,Jerry Lane,,West Katiemouth,,,,Unknown,2025-11-13T04:44:21.970462
+birth,REG-0616,Kristen Reeves,2022-11-11,Brownmouth,M,Luke Jones,Kathleen Morgan,,2025-11-13T04:44:21.970801
+death,REG-0617,David Montoya,,Jamesville,,,,Unknown,2025-11-13T04:44:21.971536
+birth,REG-0618,Peter Rogers,2023-04-18,Matthewville,M,James Rodgers,Karen Carey,,2025-11-13T04:44:21.971877
+death,REG-0619,Evan Romero,,North Karenview,,,,Accident,2025-11-13T04:44:21.972628
+death,REG-0620,Bruce Bass,,Bruceside,,,,Natural,2025-11-13T04:44:21.973041
+birth,REG-0621,Jennifer Frederick,2001-01-17,Kerrymouth,F,Willie Gibson,Catherine Weaver,,2025-11-13T04:44:21.973397
+death,REG-0622,Erica Franklin,,East Howard,,,,Disease,2025-11-13T04:44:21.974127
+death,REG-0623,David Porter,,New Wesley,,,,Unknown,2025-11-13T04:44:21.974448
+birth,REG-0624,Stephen Berry,1970-11-08,Lake Alyssastad,O,John Jimenez,Kathy Campbell,,2025-11-13T04:44:21.974774
+birth,REG-0625,Joshua Chapman,1954-04-01,East Kenneth,F,Thomas Downs,Tina Stewart,,2025-11-13T04:44:21.975485
+birth,REG-0626,Cody Guerrero,1978-03-29,Port Timothy,F,Robert Lambert,Julie Chapman,,2025-11-13T04:44:21.976234
+death,REG-0627,Colleen Mayo,,Erinberg,,,,Natural,2025-11-13T04:44:21.977000
+birth,REG-0628,Jason Smith,2019-02-16,Velasquezview,O,Roy Mcmahon,Heather Gray,,2025-11-13T04:44:21.977345
+death,REG-0629,Jacqueline Powell,,East Charles,,,,Unknown,2025-11-13T04:44:21.978152
+death,REG-0630,Scott Fitzgerald,,Andrewsbury,,,,Disease,2025-11-13T04:44:21.978499
+death,REG-0631,Jonathan Myers,,Aaronport,,,,Disease,2025-11-13T04:44:21.978855
+birth,REG-0632,Jose Lynch,1985-03-28,Kevinberg,O,Mark Bryant,Shari Fritz,,2025-11-13T04:44:21.979177
+birth,REG-0633,Ronald Frazier,1983-04-10,Richardsonfurt,O,Matthew Bass,Brianna Brown,,2025-11-13T04:44:21.980055
+death,REG-0634,Kristin Lloyd,,Elainebury,,,,Unknown,2025-11-13T04:44:21.980775
+birth,REG-0635,Derrick Thomas,1985-08-18,East Karinafort,F,Michael Daniel,Brandi Mooney,,2025-11-13T04:44:21.981147
+death,REG-0636,James Armstrong,,Lake Barbaraton,,,,Accident,2025-11-13T04:44:21.981855
+birth,REG-0637,Thomas Rosario,1970-04-09,Mooreport,F,Joshua Ramirez,Elizabeth Lynch,,2025-11-13T04:44:21.982243
+birth,REG-0638,Steven Robinson,1945-09-11,Samanthachester,O,Jeffrey Zamora,Erika Miller,,2025-11-13T04:44:21.982938
+death,REG-0639,Michael Green,,Haynesmouth,,,,Accident,2025-11-13T04:44:21.984729
+death,REG-0640,Michael Melton,,Aprilchester,,,,Accident,2025-11-13T04:44:21.985460
+birth,REG-0641,Jennifer Alvarez,1955-11-20,Amytown,M,James Gonzalez,Theresa Ryan,,2025-11-13T04:44:21.985783
+death,REG-0642,Kyle Nguyen,,Victoriaton,,,,Unknown,2025-11-13T04:44:21.986554
+death,REG-0643,Mary Rios,,Powellmouth,,,,Unknown,2025-11-13T04:44:21.986950
+death,REG-0644,Joshua Holloway,,Marieborough,,,,Unknown,2025-11-13T04:44:21.987329
+birth,REG-0645,Joy Thomas,1975-01-21,West Vanessa,O,Devin Lloyd,Jessica King,,2025-11-13T04:44:21.987697
+death,REG-0646,Michelle Davidson,,Kennethtown,,,,Unknown,2025-11-13T04:44:21.988407
+birth,REG-0647,David Williams,1998-09-19,Kevinville,F,Mitchell Russell,Hannah Gray,,2025-11-13T04:44:21.988743
+birth,REG-0648,Raymond Dudley,1993-12-09,South Stephaniestad,O,Bruce Smith,Tamara Soto,,2025-11-13T04:44:21.989450
+birth,REG-0649,Jessica Herrera,1982-01-17,Lake Nicholasmouth,M,Jim Henderson,Kelly Miller,,2025-11-13T04:44:21.990206
+death,REG-0650,Jennifer Espinoza,,East Jacobmouth,,,,Disease,2025-11-13T04:44:21.990941
+birth,REG-0651,Sarah Pierce,1954-07-29,Joshuaberg,M,Melvin Reynolds,Virginia Ellis,,2025-11-13T04:44:21.991246
+birth,REG-0652,Bryan Schwartz,1981-09-19,Josephchester,F,Joel Martin,Miranda Turner,,2025-11-13T04:44:21.992021
+death,REG-0653,Donna Howard,,West Lindseyfurt,,,,Disease,2025-11-13T04:44:21.992724
+death,REG-0654,Stephen Morales,,Port Kimberlystad,,,,Disease,2025-11-13T04:44:21.993079
+birth,REG-0655,Chad Pratt,1969-06-13,Patriciashire,O,Robert Wolf,Lori Rivera,,2025-11-13T04:44:21.993477
+birth,REG-0656,Rebecca Mendez,2002-05-01,Ashleyton,O,Steven Perez,Catherine Parsons MD,,2025-11-13T04:44:21.994266
+birth,REG-0657,Sue Leonard,1964-10-15,West Laurenport,O,Christopher Herrera,Kristen Castro,,2025-11-13T04:44:21.995209
+birth,REG-0658,Kevin Harrison,1948-02-07,Meghanton,O,Benjamin Lewis,Sarah Sweeney,,2025-11-13T04:44:21.995946
+birth,REG-0659,Mr. Leon Goodman,2006-08-06,West Robert,M,Justin Goodman,Gloria Gilmore,,2025-11-13T04:44:21.996760
+death,REG-0660,Stephanie Carter,,Heatherchester,,,,Unknown,2025-11-13T04:44:21.997513
+death,REG-0661,Shannon Stanley,,North Wendy,,,,Natural,2025-11-13T04:44:21.997822
+birth,REG-0662,Rebecca Jenkins,2017-11-13,Christopherchester,O,Connor Peterson,Erin Torres,,2025-11-13T04:44:21.998123
+birth,REG-0663,Zachary Soto,2025-04-27,West Donaldfort,O,Robert Goodwin,Margaret Morris,,2025-11-13T04:44:21.998870
+death,REG-0664,Kara Pierce,,Port Cheryl,,,,Disease,2025-11-13T04:44:21.999610
+birth,REG-0665,Jason Reynolds,1999-12-31,North Michaelborough,M,Daniel Brennan,Samantha Jones,,2025-11-13T04:44:22.008226
+death,REG-0666,Daniel Burns,,Smithmouth,,,,Accident,2025-11-13T04:44:22.009033
+birth,REG-0667,Corey Bush,1985-10-20,Alyssaland,F,Darrell Brown,Megan Huang,,2025-11-13T04:44:22.009361
+death,REG-0668,Michele Baker,,West Michelle,,,,Accident,2025-11-13T04:44:22.010118
+birth,REG-0669,Terri Barber,1952-02-02,Jefferychester,O,Ronald Moore,Julie Johnson,,2025-11-13T04:44:22.010455
+birth,REG-0670,Holly Atkinson,2014-01-15,Brownside,F,Russell Gill,Kelly Avila,,2025-11-13T04:44:22.011224
+birth,REG-0671,Jessica Kelley,1991-01-07,Jaymouth,O,John Barrett MD,Jessica Johnson,,2025-11-13T04:44:22.011988
+death,REG-0672,Janice Watson,,West Gabriela,,,,Natural,2025-11-13T04:44:22.012755
+death,REG-0673,Alexandra Krause,,Nguyenside,,,,Unknown,2025-11-13T04:44:22.013101
+birth,REG-0674,Elizabeth Mcgee,2015-12-23,Gentryfurt,M,Christopher Cross,Laura May,,2025-11-13T04:44:22.013466
+death,REG-0675,Shaun Holmes,,Marymouth,,,,Natural,2025-11-13T04:44:22.014287
+death,REG-0676,Ryan Jones,,Charlesland,,,,Natural,2025-11-13T04:44:22.014624
+birth,REG-0677,Gina Hicks,1986-09-05,South Elizabethmouth,O,Phillip Wright,Charlene Solis,,2025-11-13T04:44:22.014965
+birth,REG-0678,Chase Gonzalez,1991-04-22,North Veronicamouth,O,Jonathan Gibson,Pamela Davis,,2025-11-13T04:44:22.015716
+birth,REG-0679,Jocelyn Barber,1965-06-01,Lake Jackiehaven,M,Greg Pham,Amanda White,,2025-11-13T04:44:22.016453
+death,REG-0680,James Smith,,West Melissaport,,,,Accident,2025-11-13T04:44:22.017309
+death,REG-0681,Anna Garcia,,Gallagherburgh,,,,Natural,2025-11-13T04:44:22.017688
+birth,REG-0682,Lauren Chambers,1986-05-23,Desireehaven,O,Raymond Hill,Shelby Avila,,2025-11-13T04:44:22.017994
+death,REG-0683,Rachel Porter,,Lake Victoriatown,,,,Unknown,2025-11-13T04:44:22.018746
+death,REG-0684,Kevin Collins,,South Paulchester,,,,Natural,2025-11-13T04:44:22.019048
+birth,REG-0685,Priscilla Reid,1998-11-01,North Charles,M,Kevin Macias,Ashley Lopez,,2025-11-13T04:44:22.019365
+birth,REG-0686,Alexander Jordan,1995-10-03,Jamesville,O,Cory Brown,Melissa Mccarty,,2025-11-13T04:44:22.020154
+birth,REG-0687,Kathleen Davis,1964-10-24,East Kristen,O,William Hawkins,Brandi Banks,,2025-11-13T04:44:22.020901
+death,REG-0688,Erik Hart,,Jacquelineside,,,,Accident,2025-11-13T04:44:22.021624
+birth,REG-0689,James Hunt,2006-07-19,Millerstad,O,Bruce Jenkins,Ann Vasquez,,2025-11-13T04:44:22.021980
+birth,REG-0690,Ronald Brady,1976-05-06,Nathanielborough,M,Chase Everett,Katherine White,,2025-11-13T04:44:22.022697
+death,REG-0691,Stephanie Patel,,South Ashley,,,,Disease,2025-11-13T04:44:22.023418
+death,REG-0692,Mark Vang,,Danielside,,,,Natural,2025-11-13T04:44:22.023755
+birth,REG-0693,Robin Andrews,1952-12-09,East Brettburgh,M,Steven Contreras,Heidi Vasquez,,2025-11-13T04:44:22.024187
+birth,REG-0694,Matthew Henry,2018-05-29,Lydiaburgh,O,John Murphy,Julie Noble,,2025-11-13T04:44:22.024927
+death,REG-0695,Paul Blanchard,,Hodgeville,,,,Natural,2025-11-13T04:44:22.025706
+birth,REG-0696,Andrew Garza DDS,2007-01-15,West Carolynmouth,F,Calvin Gentry,Jody Gray MD,,2025-11-13T04:44:22.026022
+death,REG-0697,Miguel Nelson,,Manningbury,,,,Natural,2025-11-13T04:44:22.026852
+death,REG-0698,Nicole Bell,,Williamsville,,,,Natural,2025-11-13T04:44:22.027195
+death,REG-0699,Jane Erickson,,West Antonioburgh,,,,Accident,2025-11-13T04:44:22.027558
+birth,REG-0700,Ryan Vaughn,1995-01-30,New Tanyaborough,M,Todd Steele,Andrea Robles,,2025-11-13T04:44:22.027920
+birth,REG-0701,Joshua Best,1950-12-23,Charleschester,O,Patrick Reed,Margaret Young,,2025-11-13T04:44:22.028650
+birth,REG-0702,Crystal Lynch,1963-10-16,New Jasmine,O,Mark Miller,Tara Mccann,,2025-11-13T04:44:22.029374
+death,REG-0703,Patricia Hogan,,Lake Audrey,,,,Natural,2025-11-13T04:44:22.030161
+death,REG-0704,Mary Avila,,Drewshire,,,,Accident,2025-11-13T04:44:22.030476
+birth,REG-0705,Ryan Jones,2001-11-22,Samuelbury,M,David Abbott,Barbara Williams,,2025-11-13T04:44:22.030801
+death,REG-0706,Gary Stanley,,Dodsonhaven,,,,Unknown,2025-11-13T04:44:22.031564
+birth,REG-0707,Pamela Morrison,2005-01-10,Jeffreyborough,F,Mike Russell,Bethany Bridges,,2025-11-13T04:44:22.031914
+birth,REG-0708,Stephanie Clark,1949-12-04,Port Jeffery,O,Richard Kim,Vicki Bender,,2025-11-13T04:44:22.032918
+birth,REG-0709,Matthew Roberts,1945-10-19,East Gregory,O,Joseph Hahn,Natalie Steele,,2025-11-13T04:44:22.033665
+death,REG-0710,Allison Sparks,,Ninashire,,,,Disease,2025-11-13T04:44:22.034524
+birth,REG-0711,Barbara Brown,1980-07-20,Port Michelle,M,Richard Farmer,Melanie Wells,,2025-11-13T04:44:22.034835
+death,REG-0712,Carl Robertson,,South Kathryn,,,,Unknown,2025-11-13T04:44:22.035598
+death,REG-0713,Cindy Villegas,,Aaronstad,,,,Disease,2025-11-13T04:44:22.035927
+birth,REG-0714,Brian Prince,2022-07-08,Hudsonside,O,Shawn Keller,Debbie Johnson,,2025-11-13T04:44:22.036290
+death,REG-0715,Megan Cole,,Michaelfurt,,,,Natural,2025-11-13T04:44:22.037010
+birth,REG-0716,Dana Espinoza,1966-12-07,New Reginald,O,Phillip Martinez,Carrie Montgomery,,2025-11-13T04:44:22.037346
+death,REG-0717,Keith Hayes,,New Jennifer,,,,Accident,2025-11-13T04:44:22.038065
+birth,REG-0718,Leslie Little,1990-01-03,Port Randallchester,M,Xavier Wong,Allison Trujillo,,2025-11-13T04:44:22.038397
+death,REG-0719,Brian Simpson,,North James,,,,Disease,2025-11-13T04:44:22.039118
+death,REG-0720,Erica Marsh,,Jeromestad,,,,Disease,2025-11-13T04:44:22.039446
+birth,REG-0721,Joseph Salazar,2024-07-14,Lake Brandy,M,Anthony Nelson,Heather Jacobson,,2025-11-13T04:44:22.039793
+birth,REG-0722,Michelle Brown,2025-03-08,Ericview,F,Michael Williams,Valerie Jones,,2025-11-13T04:44:22.040567
+birth,REG-0723,Scott Smith,2020-07-07,Parsonsbury,M,Martin Phillips,Sarah Simmons,,2025-11-13T04:44:22.041326
+death,REG-0724,Randall Bryant,,Jenniferfurt,,,,Disease,2025-11-13T04:44:22.042063
+birth,REG-0725,Cindy Smith,1963-03-08,Lake Alexandershire,O,Bruce Solis,Teresa Reeves,,2025-11-13T04:44:22.042372
+death,REG-0726,Joel Schneider Jr.,,Sarahfurt,,,,Accident,2025-11-13T04:44:22.043287
+death,REG-0727,Patricia Watkins,,North Sheila,,,,Natural,2025-11-13T04:44:22.043778
+death,REG-0728,Joshua Jimenez,,Port Christopherstad,,,,Accident,2025-11-13T04:44:22.044133
+birth,REG-0729,Hunter Stanley,1985-04-01,Port Annastad,M,Corey Brown,Nancy Franklin,,2025-11-13T04:44:22.044558
+birth,REG-0730,Nicholas Hurley,1950-10-22,Nancyside,O,Jacob Baxter,Julie Cherry,,2025-11-13T04:44:22.045336
+birth,REG-0731,Isaac Mcdonald,1958-05-20,Brentton,F,James Ward,Rhonda Hall,,2025-11-13T04:44:22.046096
+death,REG-0732,Sara Mclean,,North James,,,,Accident,2025-11-13T04:44:22.046825
+death,REG-0733,Brian Palmer,,West Philipbury,,,,Accident,2025-11-13T04:44:22.047176
+death,REG-0734,Dr. Jonathan Robinson MD,,New Austinbury,,,,Unknown,2025-11-13T04:44:22.047503
+birth,REG-0735,Cynthia Matthews,1948-04-10,Port Stephanie,F,Mario Hatfield,Gabrielle Wilson,,2025-11-13T04:44:22.047868
+death,REG-0736,Gregory Cohen,,Westshire,,,,Unknown,2025-11-13T04:44:22.048818
+birth,REG-0737,Michael Ross,2001-07-14,Smithtown,M,Joseph Allen,Sabrina Blankenship,,2025-11-13T04:44:22.049200
+birth,REG-0738,Christine Rasmussen,1948-08-04,Jamesberg,F,Martin Glenn,Alison Thornton,,2025-11-13T04:44:22.049961
+birth,REG-0739,Albert Figueroa,1987-03-09,Millerburgh,F,David Humphrey,Ana Coleman,,2025-11-13T04:44:22.050752
+birth,REG-0740,Alice Li,2009-10-03,Robinsonside,O,Matthew Olson,Jessica Brown,,2025-11-13T04:44:22.051531
+death,REG-0741,Linda Woods,,Port Sherry,,,,Disease,2025-11-13T04:44:22.052293
+birth,REG-0742,Justin Vargas,1976-10-26,New Janicefort,O,Jose Smith,Nancy Aguilar,,2025-11-13T04:44:22.052706
+death,REG-0743,Destiny Porter,,South William,,,,Accident,2025-11-13T04:44:22.053439
+death,REG-0744,Nathaniel Lane,,Port Donaldhaven,,,,Accident,2025-11-13T04:44:22.053786
+death,REG-0745,Philip Martin,,Donaldmouth,,,,Disease,2025-11-13T04:44:22.054085
+birth,REG-0746,Michael Davis,1968-01-13,North Patricia,M,Craig Nguyen,Ashley Riley,,2025-11-13T04:44:22.054406
+birth,REG-0747,Roy Fisher,2023-09-15,East Tanyaville,F,David Moses,Sarah Ballard,,2025-11-13T04:44:22.055237
+death,REG-0748,James Johnson,,North Carrie,,,,Unknown,2025-11-13T04:44:22.056034
+birth,REG-0749,Jason Martinez,1998-02-07,Reginaldborough,F,Joseph Garcia,Mary Moore,,2025-11-13T04:44:22.056343
+death,REG-0750,Jonathan Gomez,,Virginiaport,,,,Accident,2025-11-13T04:44:22.057069
+death,REG-0751,Tracy Gray,,Clarkton,,,,Accident,2025-11-13T04:44:22.057422
+death,REG-0752,Joshua Bush,,Jacobsonmouth,,,,Natural,2025-11-13T04:44:22.057768
+birth,REG-0753,Joshua Wallace,1995-11-19,Freyville,F,Wesley Collins,Sandra Morales,,2025-11-13T04:44:22.058120
+birth,REG-0754,Stephen Davis,1995-01-18,Chelseafurt,M,Jordan Snow,Michelle Lambert,,2025-11-13T04:44:22.058834
+birth,REG-0755,Kristin Morales,1967-10-25,New Edwardtown,O,Patrick King,Tara Le,,2025-11-13T04:44:22.060356
+birth,REG-0756,Gerald Johnson,1969-01-25,Marthaport,M,Peter Ashley,Sara Hubbard,,2025-11-13T04:44:22.061757
+birth,REG-0757,John Brown,2020-12-10,North Jennifermouth,M,Joseph Cook,Destiny Dixon,,2025-11-13T04:44:22.063122
+death,REG-0758,Jeremy Nichols,,West Austin,,,,Unknown,2025-11-13T04:44:22.064893
+birth,REG-0759,Stephanie Mckay,1962-04-14,Rubenfurt,M,Nicholas Wade,Brittany Randall,,2025-11-13T04:44:22.065556
+birth,REG-0760,Shirley Meza,1986-01-16,New Karentown,O,James Terry,Amber Miller,,2025-11-13T04:44:22.066974
+death,REG-0761,Jenny Allen,,West Erikville,,,,Natural,2025-11-13T04:44:22.068091
+death,REG-0762,Bonnie Waller,,Michelleshire,,,,Unknown,2025-11-13T04:44:22.068502
+death,REG-0763,Brenda Brown,,North Sergio,,,,Disease,2025-11-13T04:44:22.068846
+birth,REG-0764,Heather Contreras,1950-11-21,New Josephchester,F,Christopher Brock,Christina Snyder,,2025-11-13T04:44:22.069206
+birth,REG-0765,Ryan Smith,1988-12-10,West Nancy,O,Juan Cox,Angela Garcia,,2025-11-13T04:44:22.069962
+death,REG-0766,Rose Alvarez,,East Brian,,,,Disease,2025-11-13T04:44:22.070727
+death,REG-0767,Jessica Guerra,,Lake Andrew,,,,Natural,2025-11-13T04:44:22.071056
+death,REG-0768,Gene Mclaughlin,,Hollowaymouth,,,,Accident,2025-11-13T04:44:22.071431
+death,REG-0769,Ashley Hernandez,,Robertfort,,,,Natural,2025-11-13T04:44:22.071863
+death,REG-0770,Thomas Romero,,Lake Sandrachester,,,,Unknown,2025-11-13T04:44:22.072201
+birth,REG-0771,Shannon Miller,1983-01-24,Victoriafort,F,Eric Allen,Tracy Willis,,2025-11-13T04:44:22.072548
+death,REG-0772,David Pierce,,Port Christina,,,,Unknown,2025-11-13T04:44:22.073282
+death,REG-0773,Bianca Chavez,,West Christopherberg,,,,Accident,2025-11-13T04:44:22.073649
+birth,REG-0774,Teresa Baker,1972-06-03,West Rebecca,M,Michael Kim,Terry Hawkins,,2025-11-13T04:44:22.073958
+birth,REG-0775,Alyssa Kennedy,2023-12-29,North Robert,M,Daniel Howell,Barbara Molina,,2025-11-13T04:44:22.074730
+birth,REG-0776,Hannah Lopez,2013-04-23,Lynchfort,M,Logan Lee,Jennifer Kramer,,2025-11-13T04:44:22.075661
+death,REG-0777,Taylor Mercer,,Sherryburgh,,,,Unknown,2025-11-13T04:44:22.076436
+death,REG-0778,Amy Lynch,,Port Amy,,,,Disease,2025-11-13T04:44:22.076782
+death,REG-0779,Michael Davis,,East Mathewburgh,,,,Accident,2025-11-13T04:44:22.077116
+death,REG-0780,Joshua Dixon,,Port John,,,,Accident,2025-11-13T04:44:22.077434
+death,REG-0781,Melissa Peterson,,Bakerton,,,,Disease,2025-11-13T04:44:22.077804
+death,REG-0782,Nicholas Perry,,Griffinstad,,,,Disease,2025-11-13T04:44:22.078214
+death,REG-0783,Taylor Gallagher,,New Brandon,,,,Disease,2025-11-13T04:44:22.078568
+death,REG-0784,Richard Hall,,West Lynnstad,,,,Unknown,2025-11-13T04:44:22.078905
+death,REG-0785,Jason Lopez,,Antoniostad,,,,Unknown,2025-11-13T04:44:22.079233
+birth,REG-0786,Robert Hardin DVM,1995-06-20,Thomasshire,F,David Martin,Kathleen Perez,,2025-11-13T04:44:22.079682
+death,REG-0787,David Foley,,Phillipsborough,,,,Disease,2025-11-13T04:44:22.080617
+birth,REG-0788,Carmen Hall,1969-12-31,Shafferfurt,F,David Hurley,Vanessa Tanner,,2025-11-13T04:44:22.080970
+birth,REG-0789,Nicholas Howard,1988-03-12,Port Jack,O,Bradley Parker,Elizabeth Kelley,,2025-11-13T04:44:22.081773
+death,REG-0790,Jessica Gonzalez,,Youngstad,,,,Unknown,2025-11-13T04:44:22.082595
+death,REG-0791,Gloria Miller,,North Jeremy,,,,Natural,2025-11-13T04:44:22.082933
+death,REG-0792,Jenny Flores,,Stevenside,,,,Disease,2025-11-13T04:44:22.083275
+death,REG-0793,Candice Wells,,Philipchester,,,,Unknown,2025-11-13T04:44:22.083639
+birth,REG-0794,William Christian,1993-07-23,Cindymouth,F,John Henderson,Tina Thompson,,2025-11-13T04:44:22.083981
+death,REG-0795,Jonathan Parsons,,Bakerhaven,,,,Unknown,2025-11-13T04:44:22.084761
+birth,REG-0796,Kelly Reed,1982-03-21,Port Barbarabury,O,Tanner Wilson,Shelby Miller,,2025-11-13T04:44:22.085094
+death,REG-0797,Sarah Perez DDS,,Barrettland,,,,Disease,2025-11-13T04:44:22.085996
+birth,REG-0798,Brandon Brennan,1948-11-25,Garciaton,O,Kevin Pacheco,Kimberly Sweeney,,2025-11-13T04:44:22.086364
+death,REG-0799,James Fowler,,Port Brenda,,,,Unknown,2025-11-13T04:44:22.087099
+death,REG-0800,William Fleming,,North Jacobside,,,,Unknown,2025-11-13T04:44:22.087437
+birth,REG-0801,Leslie Olson,1951-04-18,Richardhaven,F,Benjamin Dennis,Lydia Robbins,,2025-11-13T04:44:22.087807
+death,REG-0802,Brittany Lowe,,East Cheryl,,,,Disease,2025-11-13T04:44:22.088560
+birth,REG-0803,Steven Bray,1991-01-27,Jeremiahfurt,M,Daniel Zuniga,Cheryl Tapia,,2025-11-13T04:44:22.088902
+birth,REG-0804,Ricky Perez,2018-12-26,Ellisburgh,F,Jonathan Peterson,Maria Brown,,2025-11-13T04:44:22.089672
+death,REG-0805,Tammy Young,,Milesmouth,,,,Unknown,2025-11-13T04:44:22.090486
+birth,REG-0806,Robert Thornton,1987-11-29,South Justinberg,O,Vincent Choi,Kathryn Salazar,,2025-11-13T04:44:22.090803
+birth,REG-0807,Benjamin Lane,1957-11-30,West Mary,M,Jordan Green,Rose Calhoun,,2025-11-13T04:44:22.091555
+birth,REG-0808,Christopher Maynard,2021-11-19,Port Barbaraside,M,Nicholas Walsh,Shannon Blair,,2025-11-13T04:44:22.092397
+death,REG-0809,Jenna Smith,,Michaelstad,,,,Disease,2025-11-13T04:44:22.093281
+birth,REG-0810,Mark Berger,2013-09-17,Alejandrashire,M,Duane Ortega,Paula Dunn,,2025-11-13T04:44:22.093648
+birth,REG-0811,Donald Ross,1954-12-05,Rebeccabury,O,Robert Thompson,Crystal Kelly,,2025-11-13T04:44:22.094539
+birth,REG-0812,Thomas Tucker,2025-08-26,Lake Georgeview,F,Jeremiah Ferguson,Kelsey Nicholson,,2025-11-13T04:44:22.095695
+birth,REG-0813,Andrew Gonzalez,2012-05-12,Lisaberg,O,Jordan Miller,Amanda Gibson,,2025-11-13T04:44:22.096514
+birth,REG-0814,Jason Walker,2003-03-11,West Mary,O,Christopher Cruz,Jean Allen,,2025-11-13T04:44:22.097258
+birth,REG-0815,Gloria Kennedy,1959-01-29,Simpsonport,M,Todd Murphy,Jacqueline Nguyen,,2025-11-13T04:44:22.098034
+birth,REG-0816,Christopher Roberts,2012-11-24,North Johntown,F,Glenn Smith,Dawn Schmidt,,2025-11-13T04:44:22.098810
+birth,REG-0817,Patricia Edwards MD,1995-07-14,Lake Patriciamouth,O,Mark Salinas,Cheryl Pratt,,2025-11-13T04:44:22.099562
+birth,REG-0818,Angela Richardson,2014-12-11,South Melissa,F,Cory Johnson,Katie Harris,,2025-11-13T04:44:22.108411
+death,REG-0819,Anthony Vaughn,,Rhondafurt,,,,Accident,2025-11-13T04:44:22.109272
+birth,REG-0820,James Hawkins,1972-10-11,Lake John,O,Stephen Cameron,Amy Davis,,2025-11-13T04:44:22.109605
+birth,REG-0821,Lori Morrison,2009-11-17,Garzahaven,M,Michael Holland,Kristine Castro MD,,2025-11-13T04:44:22.110393
+death,REG-0822,Eric Lewis,,Calvinburgh,,,,Natural,2025-11-13T04:44:22.111322
+birth,REG-0823,Hannah Davis,1998-03-20,Finleyborough,F,Robert Gordon,Brenda Bell,,2025-11-13T04:44:22.111708
+birth,REG-0824,Lisa Edwards,1995-01-29,Port Lesliechester,F,Timothy Price,Rachael Frazier,,2025-11-13T04:44:22.112457
+birth,REG-0825,Mary Sanchez,1998-11-11,Charlottemouth,O,Gary Riley,Whitney Meadows,,2025-11-13T04:44:22.113201
+birth,REG-0826,Gregory Perez,1946-07-27,New Nicholasfort,F,Thomas Rodriguez,Amy Lopez,,2025-11-13T04:44:22.113896
+death,REG-0827,Dawn Wilson,,New Jared,,,,Natural,2025-11-13T04:44:22.114615
+death,REG-0828,Michael Moore,,Johnberg,,,,Disease,2025-11-13T04:44:22.114915
+birth,REG-0829,Ryan Aguilar,1969-04-17,Port Staceyport,O,Jason Carroll,Michaela Torres,,2025-11-13T04:44:22.115247
+birth,REG-0830,Janice Pearson,1981-07-01,Aaronborough,F,Andrew Wilson,Dawn Hill,,2025-11-13T04:44:22.116052
+death,REG-0831,Justin Smith,,North Christophermouth,,,,Disease,2025-11-13T04:44:22.116807
+death,REG-0832,Stephen Decker,,Robertburgh,,,,Disease,2025-11-13T04:44:22.117108
+death,REG-0833,Brent Dunlap,,Smithfurt,,,,Disease,2025-11-13T04:44:22.117473
+death,REG-0834,Cassandra Long,,West Robertview,,,,Unknown,2025-11-13T04:44:22.117789
+birth,REG-0835,Ryan Hess,2025-05-31,Port Thomasfurt,M,Derek Pugh,Lauren Shannon,,2025-11-13T04:44:22.118083
+birth,REG-0836,Danielle Barnett,1969-02-01,Laurenchester,M,Timothy Phelps,Kathy Wiley,,2025-11-13T04:44:22.118815
+birth,REG-0837,Debra Martinez DDS,1983-03-16,Hicksmouth,F,Mr. Jorge Gomez MD,Laura Smith,,2025-11-13T04:44:22.119582
+death,REG-0838,Casey Garcia,,Robinsonfurt,,,,Unknown,2025-11-13T04:44:22.120356
+birth,REG-0839,Angela Jordan,1968-06-24,West Paul,O,Anthony Williams,Sherry Butler,,2025-11-13T04:44:22.120693
+birth,REG-0840,Vanessa Fisher,1948-07-04,Stewartshire,O,Kyle Calhoun,Theresa Myers,,2025-11-13T04:44:22.121475
+death,REG-0841,Daniel Wolfe,,Port Kim,,,,Natural,2025-11-13T04:44:22.122215
+death,REG-0842,Johnny Evans,,Brookshaven,,,,Natural,2025-11-13T04:44:22.122555
+death,REG-0843,Cindy Mcintyre,,Charlestown,,,,Unknown,2025-11-13T04:44:22.122887
+death,REG-0844,Christopher Russo,,Dianabury,,,,Accident,2025-11-13T04:44:22.123189
+death,REG-0845,Cathy Craig,,Donaldberg,,,,Unknown,2025-11-13T04:44:22.123489
+birth,REG-0846,Andrew Duran,1976-11-07,Christineton,M,Peter Turner,Robin Duran,,2025-11-13T04:44:22.123811
+birth,REG-0847,Richard Wells,1980-03-31,Vanessahaven,F,Juan Williams,Kimberly Collier,,2025-11-13T04:44:22.124535
+death,REG-0848,Renee Carter,,North Jasmine,,,,Unknown,2025-11-13T04:44:22.125258
+death,REG-0849,Hannah Thomas,,Samanthaton,,,,Unknown,2025-11-13T04:44:22.125560
+birth,REG-0850,Jorge Alexander,1989-02-27,Elizabethtown,M,Wesley Arroyo,Christine Sullivan,,2025-11-13T04:44:22.125851
+birth,REG-0851,Alex Ayala,2011-09-06,New Carolynmouth,F,Mitchell Gomez,Ashley Collier,,2025-11-13T04:44:22.126702
+death,REG-0852,Mark Gomez,,Kyleville,,,,Accident,2025-11-13T04:44:22.127443
+death,REG-0853,Natalie Flores,,New Christopher,,,,Natural,2025-11-13T04:44:22.127773
+death,REG-0854,Andrew Martinez,,Lake Nancyland,,,,Disease,2025-11-13T04:44:22.128158
+birth,REG-0855,Joanne Wilson,1948-08-15,Robertview,F,John Wong,Andrea Bowen,,2025-11-13T04:44:22.128592
+birth,REG-0856,Kenneth Macdonald,1954-09-05,Port Johnton,O,Matthew Crane,Sierra Tucker,,2025-11-13T04:44:22.129431
+birth,REG-0857,Thomas Anderson,1954-10-19,Lake Michael,O,Clayton Yates,Julie Nelson,,2025-11-13T04:44:22.130137
+death,REG-0858,Patricia Chambers,,Millerland,,,,Natural,2025-11-13T04:44:22.130907
+death,REG-0859,Shannon Rocha,,Cisneroston,,,,Disease,2025-11-13T04:44:22.131287
+birth,REG-0860,Amy Smith,1979-07-27,Penatown,F,Daniel Garcia,Robin Marsh,,2025-11-13T04:44:22.131681
+death,REG-0861,Jody Harris,,North Derek,,,,Accident,2025-11-13T04:44:22.132399
+birth,REG-0862,Elizabeth Espinoza,1948-06-09,Craigland,M,Gary Wood,Alyssa Campbell,,2025-11-13T04:44:22.132846
+death,REG-0863,Robert Schwartz,,East Lynnmouth,,,,Unknown,2025-11-13T04:44:22.133566
+death,REG-0864,Anthony Garcia,,North Karenshire,,,,Unknown,2025-11-13T04:44:22.133907
+birth,REG-0865,Stacey Alexander,2020-01-13,North Zacharyville,M,Randall Dickson,Kathryn Harris,,2025-11-13T04:44:22.134217
+birth,REG-0866,Erica Macdonald,2021-07-22,South Daniel,O,Robert Wood,Debra Henry,,2025-11-13T04:44:22.134942
+birth,REG-0867,Gabriel Hughes,2012-03-15,Lake Ronald,M,Frank Taylor,Samantha Holland,,2025-11-13T04:44:22.135662
+birth,REG-0868,Randy Martin,1965-07-06,Campbellberg,F,Matthew Clark,Pamela Villanueva,,2025-11-13T04:44:22.136515
+death,REG-0869,Todd Savage,,Shafferport,,,,Accident,2025-11-13T04:44:22.137307
+birth,REG-0870,Joseph Carter,1993-11-29,Byrdfort,M,Alexander Mendoza,Charlene Lopez,,2025-11-13T04:44:22.137648
+birth,REG-0871,Lisa Hall,1975-11-20,Williamshaven,F,Jason Mccarty,Brittany Love,,2025-11-13T04:44:22.138415
+death,REG-0872,Daniel Robinson,,Crossshire,,,,Natural,2025-11-13T04:44:22.139174
+death,REG-0873,Tracy Ward,,Jeremymouth,,,,Natural,2025-11-13T04:44:22.139518
+death,REG-0874,Robert Palmer,,Kellyland,,,,Natural,2025-11-13T04:44:22.139869
+death,REG-0875,Connor Hartman DDS,,Gomeztown,,,,Unknown,2025-11-13T04:44:22.140217
+death,REG-0876,Denise Dixon,,North David,,,,Unknown,2025-11-13T04:44:22.140552
+death,REG-0877,Jesse Mora,,Melissaborough,,,,Accident,2025-11-13T04:44:22.140882
+birth,REG-0878,Anthony Lewis,1974-09-02,Dudleyshire,O,Bernard Ramirez,Lauren Taylor,,2025-11-13T04:44:22.141247
+birth,REG-0879,Anthony Rodriguez,1999-10-08,Pricehaven,F,Dustin Brandt,Leslie Miller,,2025-11-13T04:44:22.144746
+death,REG-0880,Frank Turner,,Sandersbury,,,,Natural,2025-11-13T04:44:22.145858
+death,REG-0881,Cindy Harrison,,Bradtown,,,,Unknown,2025-11-13T04:44:22.146212
+death,REG-0882,Steven Willis,,North Alan,,,,Unknown,2025-11-13T04:44:22.146673
+death,REG-0883,Paula Peters,,North Kathryn,,,,Natural,2025-11-13T04:44:22.146989
+death,REG-0884,Charlene Diaz,,East Brandon,,,,Accident,2025-11-13T04:44:22.147318
+birth,REG-0885,Peggy Paul,1978-10-21,West Eric,O,Christopher Hernandez,Kathy Hopkins,,2025-11-13T04:44:22.147837
+birth,REG-0886,Mr. Matthew Garcia PhD,1970-05-16,West Amanda,F,Jesus Hernandez,Tammy Henderson,,2025-11-13T04:44:22.148752
+death,REG-0887,Richard Briggs,,South Javier,,,,Accident,2025-11-13T04:44:22.150145
+death,REG-0888,Alicia Orozco,,Maryton,,,,Accident,2025-11-13T04:44:22.150510
+birth,REG-0889,Todd Hampton,2016-12-19,Mcphersonberg,M,Derrick Schneider,Hannah Rodriguez,,2025-11-13T04:44:22.150941
+death,REG-0890,Joshua Washington,,Port Jesus,,,,Accident,2025-11-13T04:44:22.151837
+birth,REG-0891,Jason Carlson,2002-09-16,Hunterside,M,Daniel Coleman,Angela Ball,,2025-11-13T04:44:22.152189
+death,REG-0892,Heidi James,,Reynoldston,,,,Accident,2025-11-13T04:44:22.152963
+birth,REG-0893,Nicholas Wallace,1973-01-03,Cruzbury,F,Joseph Brown,Jennifer Mills,,2025-11-13T04:44:22.153299
+birth,REG-0894,Christine Jackson,1985-12-10,South Derekside,M,Joshua Patterson,Ashley Hahn,,2025-11-13T04:44:22.154024
+birth,REG-0895,Paula Griffin,1972-04-18,West Peterfort,F,Nicholas Rodriguez,Tracy Wright,,2025-11-13T04:44:22.154723
+birth,REG-0896,Angela Hart,1960-06-17,Bradbury,M,Shane Garza,Christine Nguyen,,2025-11-13T04:44:22.155442
+birth,REG-0897,Matthew Young,1946-08-17,Stephenview,O,James Williams,Sarah Scott,,2025-11-13T04:44:22.156183
+birth,REG-0898,Gabriela Haley,1971-04-03,South Melissahaven,O,Scott Dougherty,Jennifer Mann,,2025-11-13T04:44:22.156881
+birth,REG-0899,Samuel Armstrong,2023-02-13,South Reneeville,F,Jeff Cruz,Bonnie Brown,,2025-11-13T04:44:22.157593
+birth,REG-0900,Kimberly Clarke,1964-08-29,Beckchester,M,Lawrence Griffith,Elizabeth Williams,,2025-11-13T04:44:22.158373
+death,REG-0901,Joseph Morales,,North Daniel,,,,Accident,2025-11-13T04:44:22.159089
+birth,REG-0902,Ronald Marshall,1969-02-01,Lake Kristine,F,Lucas Christensen,Cheryl Baker,,2025-11-13T04:44:22.159403
+birth,REG-0903,Sharon Vargas,1982-08-08,North Elizabeth,O,Rodney Sanchez,Mackenzie Sullivan,,2025-11-13T04:44:22.160198
+birth,REG-0904,Shannon Holmes,1954-10-29,South Dakota,M,Todd Carlson,Jessica Perez,,2025-11-13T04:44:22.160950
+death,REG-0905,Elizabeth Carter,,Daltonbury,,,,Disease,2025-11-13T04:44:22.161771
+death,REG-0906,William Lawson,,Rachelbury,,,,Disease,2025-11-13T04:44:22.162081
+death,REG-0907,Zachary Harrell,,West Ethantown,,,,Accident,2025-11-13T04:44:22.162414
+death,REG-0908,Victoria Silva,,New Adamside,,,,Disease,2025-11-13T04:44:22.162757
+death,REG-0909,Jeremy Johnson,,Erikborough,,,,Natural,2025-11-13T04:44:22.163064
+birth,REG-0910,William Jefferson,2023-04-03,Jodiberg,O,Shawn Lane,Patricia Gonzales,,2025-11-13T04:44:22.163375
+birth,REG-0911,Diana Ware,1958-01-04,South Sheenaland,M,Victor Stephenson,Teresa Bradley,,2025-11-13T04:44:22.164223
+death,REG-0912,Alexandria Bishop,,North Williamstad,,,,Disease,2025-11-13T04:44:22.165014
+birth,REG-0913,Charles Robertson,2000-07-31,Crystalbury,M,Kenneth Howell,Ashley Jennings,,2025-11-13T04:44:22.165326
+death,REG-0914,Jennifer Rios,,Crawfordfort,,,,Disease,2025-11-13T04:44:22.166150
+death,REG-0915,Paul Simon,,East Jasontown,,,,Natural,2025-11-13T04:44:22.166465
+death,REG-0916,Jordan Chase,,Paulburgh,,,,Unknown,2025-11-13T04:44:22.166806
+birth,REG-0917,Kathryn Merritt,1955-02-09,East Candace,F,Nicholas Kennedy,Danielle Martin,,2025-11-13T04:44:22.167139
+death,REG-0918,Eric Warren,,Johnsonburgh,,,,Accident,2025-11-13T04:44:22.167965
+death,REG-0919,Todd Holland,,Annaborough,,,,Disease,2025-11-13T04:44:22.168305
+birth,REG-0920,Julia Gutierrez,1991-02-13,New Rhondafurt,O,Jon Bush,Heather Bowman,,2025-11-13T04:44:22.168618
+death,REG-0921,Walter Frazier,,Connieport,,,,Disease,2025-11-13T04:44:22.169399
+birth,REG-0922,David Walker,1951-03-08,West Shawnborough,F,Benjamin Mayer,Cynthia Hill,,2025-11-13T04:44:22.169709
+death,REG-0923,Terri Navarro,,Walterfurt,,,,Natural,2025-11-13T04:44:22.170552
+death,REG-0924,Renee May,,West James,,,,Natural,2025-11-13T04:44:22.170864
+death,REG-0925,Garrett Bryant,,Matthewside,,,,Unknown,2025-11-13T04:44:22.171204
+death,REG-0926,Jordan Phillips,,East Coryberg,,,,Natural,2025-11-13T04:44:22.171577
+death,REG-0927,Christopher Berry,,Hernandezton,,,,Natural,2025-11-13T04:44:22.171955
+death,REG-0928,Dan Warren,,New Michaelmouth,,,,Disease,2025-11-13T04:44:22.172289
+death,REG-0929,Timothy Burke,,Samanthashire,,,,Unknown,2025-11-13T04:44:22.172622
+birth,REG-0930,Christopher Hughes,2003-03-02,Maureenborough,O,Jeremy Hays,Megan Myers,,2025-11-13T04:44:22.172929
+death,REG-0931,Lisa Khan,,Lake Catherine,,,,Unknown,2025-11-13T04:44:22.173662
+death,REG-0932,Edward Caldwell,,Heidiborough,,,,Accident,2025-11-13T04:44:22.173992
+death,REG-0933,Tami Barr,,Cartermouth,,,,Disease,2025-11-13T04:44:22.174358
+death,REG-0934,Joseph Foster Jr.,,South Catherinetown,,,,Accident,2025-11-13T04:44:22.174671
+death,REG-0935,Jessica Zuniga,,Lake Jessica,,,,Accident,2025-11-13T04:44:22.175008
+death,REG-0936,Tracy Gardner,,Port Tamara,,,,Accident,2025-11-13T04:44:22.175333
+birth,REG-0937,Mr. Chad Barker,1983-03-30,Washingtonchester,O,Matthew Martinez,Anne Ross,,2025-11-13T04:44:22.175712
+death,REG-0938,Victor Becker,,West Brendabury,,,,Natural,2025-11-13T04:44:22.176488
+death,REG-0939,Christopher Daniels,,Lake Jesse,,,,Unknown,2025-11-13T04:44:22.176788
+birth,REG-0940,Adam Deleon,1986-10-26,Colinmouth,M,Gregory Phillips,Elizabeth Bradshaw,,2025-11-13T04:44:22.177114
+death,REG-0941,Joseph Clark,,Reyeston,,,,Disease,2025-11-13T04:44:22.177876
+birth,REG-0942,Jamie Hayes,2017-01-14,Lake Johnbury,M,Christopher Wallace,Traci Schwartz,,2025-11-13T04:44:22.178217
+birth,REG-0943,Tim Mcdonald,1946-03-20,Lake Joseph,M,Dwayne Bennett,Cynthia Ford,,2025-11-13T04:44:22.178967
+birth,REG-0944,Susan Wilson,2021-04-19,West Yolanda,F,Billy Wilson,Dana Thomas,,2025-11-13T04:44:22.179749
+birth,REG-0945,Maria Davis,1971-12-31,New Chadhaven,M,Charles Myers,Sara Perez,,2025-11-13T04:44:22.180494
+birth,REG-0946,Maria Galloway,1977-09-21,Brianstad,O,Cody Martinez,Rebecca Lee,,2025-11-13T04:44:22.181190
+birth,REG-0947,Shari Phillips,1988-05-13,Tylerside,O,Peter Stevens,Regina Harvey,,2025-11-13T04:44:22.181946
+death,REG-0948,Bridget Gomez,,Lake Cathy,,,,Natural,2025-11-13T04:44:22.182683
+death,REG-0949,Brandon Vasquez,,North Brendanport,,,,Natural,2025-11-13T04:44:22.182990
+death,REG-0950,Dr. Nicole Warren,,Williamtown,,,,Natural,2025-11-13T04:44:22.183295
+birth,REG-0951,Mark Reeves,1952-11-14,South Andresview,M,Nathan Glover,Shelly Lopez,,2025-11-13T04:44:22.183639
+death,REG-0952,Megan Bryant,,Port Jenniferland,,,,Unknown,2025-11-13T04:44:22.184390
+death,REG-0953,Xavier Padilla,,Lake Ryan,,,,Disease,2025-11-13T04:44:22.184724
+birth,REG-0954,Lisa Anderson,1958-07-10,Paulmouth,O,Jonathan Mullins,Linda Ayala,,2025-11-13T04:44:22.185066
+birth,REG-0955,Andrea Rodriguez,2018-09-23,Miguelton,O,Eric Rodriguez,Karen Hughes,,2025-11-13T04:44:22.185847
+death,REG-0956,Anna Harris,,Ravenbury,,,,Accident,2025-11-13T04:44:22.186619
+death,REG-0957,Michael Maddox,,Scottborough,,,,Unknown,2025-11-13T04:44:22.186959
+birth,REG-0958,Jeffrey Barker,2002-07-23,Port Angelafurt,F,Zachary Watts,Jill Jarvis,,2025-11-13T04:44:22.187296
+birth,REG-0959,Patty Collins,1969-12-27,Michaelland,F,Brett Kelly,Melinda Banks,,2025-11-13T04:44:22.188119
+death,REG-0960,George Boyer,,Jessicastad,,,,Natural,2025-11-13T04:44:22.188937
+death,REG-0961,Benjamin Huff,,Port Tylerton,,,,Accident,2025-11-13T04:44:22.189275
+death,REG-0962,Lisa Smith,,Lake Conniemouth,,,,Natural,2025-11-13T04:44:22.189641
+birth,REG-0963,Jason Wade Jr.,1961-01-10,North Amandafurt,M,Jimmy Harmon,Katie Stevenson,,2025-11-13T04:44:22.189960
+death,REG-0964,Danielle Boyle,,North Michaelmouth,,,,Disease,2025-11-13T04:44:22.190745
+birth,REG-0965,Carolyn Martin,1947-11-18,Port Lindsay,M,Robert Jacobs,Erica Lawrence,,2025-11-13T04:44:22.191056
+death,REG-0966,David Mayer,,New Stephen,,,,Natural,2025-11-13T04:44:22.191865
+birth,REG-0967,Nicholas Kramer,2016-10-20,Gordonstad,F,Duane Calhoun,Samantha Cherry,,2025-11-13T04:44:22.192215
+birth,REG-0968,Isaac Hanna,1958-02-21,New Ashleyborough,F,Timothy Stanley,Erica Ellis,,2025-11-13T04:44:22.192989
+birth,REG-0969,Jeremy Jones,1987-01-03,West Jennifer,O,Jordan Torres,Destiny Mcdonald,,2025-11-13T04:44:22.193724
+death,REG-0970,Holly Delacruz,,Port Jennifermouth,,,,Disease,2025-11-13T04:44:22.194456
+birth,REG-0971,Thomas Farrell,1979-02-10,Lake Walter,M,Joseph Baker,Jillian Cline,,2025-11-13T04:44:22.194751
+death,REG-0972,Brent Jones,,Dixonfurt,,,,Unknown,2025-11-13T04:44:22.195502
+death,REG-0973,Christopher Nguyen,,West Joseburgh,,,,Disease,2025-11-13T04:44:22.208012
+birth,REG-0974,Carrie Allen,1985-08-16,North Cynthiafort,M,Jeremy Green,Susan Sanchez,,2025-11-13T04:44:22.208360
+birth,REG-0975,Daniel Taylor,2010-10-27,Riosland,M,Christopher Miller,Sharon Mooney,,2025-11-13T04:44:22.209128
+birth,REG-0976,Ashley Rowe,1960-06-06,South Robertofurt,M,Eric Tran,Summer Stephens,,2025-11-13T04:44:22.209828
+birth,REG-0977,Elizabeth Little,1984-04-29,Duffyburgh,M,David Mcfarland,Whitney Livingston,,2025-11-13T04:44:22.210575
+birth,REG-0978,Joe Bean,1948-11-08,South Dawn,O,Michael Jones,Heather Sullivan,,2025-11-13T04:44:22.211277
+death,REG-0979,Erica Curry,,Richardstad,,,,Disease,2025-11-13T04:44:22.212053
+birth,REG-0980,Gary Figueroa,1983-11-19,New Andre,F,Jason Walker,Sharon Johnson,,2025-11-13T04:44:22.212355
+birth,REG-0981,Amber Douglas,1973-01-15,East Rogerfort,F,Shane Allen,Deborah Mullins,,2025-11-13T04:44:22.213053
+death,REG-0982,Patricia Andrews,,South Tracy,,,,Disease,2025-11-13T04:44:22.213807
+death,REG-0983,Alexis Baxter,,Kochtown,,,,Disease,2025-11-13T04:44:22.214149
+death,REG-0984,Mrs. Tina Martinez,,Duarteville,,,,Natural,2025-11-13T04:44:22.214542
+birth,REG-0985,Elizabeth Cortez,2017-10-12,Timothybury,O,Donald Armstrong,Nancy Mcdonald,,2025-11-13T04:44:22.214847
+death,REG-0986,Andrew Black,,Morrisport,,,,Natural,2025-11-13T04:44:22.215656
+birth,REG-0987,Tanya Gibbs,2020-06-07,New Jamie,M,Cody Smith,Kelly Maynard,,2025-11-13T04:44:22.215974
+death,REG-0988,William Simmons,,East Donnaport,,,,Unknown,2025-11-13T04:44:22.216732
+death,REG-0989,Caitlin Franklin,,Brewermouth,,,,Disease,2025-11-13T04:44:22.217084
+death,REG-0990,Jeremy Mendez,,Port Angelmouth,,,,Accident,2025-11-13T04:44:22.217380
+birth,REG-0991,Emily Farley,1973-08-04,East Karenborough,F,Edward Callahan,Tracy Simpson,,2025-11-13T04:44:22.217736
+death,REG-0992,Matthew Cook,,Gallowayhaven,,,,Accident,2025-11-13T04:44:22.218473
+birth,REG-0993,Holly Kerr MD,1989-07-24,Port Randyshire,M,James White,Stephanie Jones,,2025-11-13T04:44:22.218837
+birth,REG-0994,Amy Wyatt,1946-11-24,West Paul,F,Ray Little,Julie Vega,,2025-11-13T04:44:22.219538
+birth,REG-0995,Nathan Archer,1948-03-26,Mullinsburgh,O,Michael Montes,Katherine Barnett,,2025-11-13T04:44:22.220353
+death,REG-0996,Deborah Oconnell,,Katherineside,,,,Natural,2025-11-13T04:44:22.221147
+death,REG-0997,Christina Hurst,,New Michaelton,,,,Unknown,2025-11-13T04:44:22.221462
+death,REG-0998,Alison Brown PhD,,Port Johnshire,,,,Accident,2025-11-13T04:44:22.221770
+birth,REG-0999,Carrie Flores,1963-07-30,Gregoryhaven,O,Edwin Sawyer,Maria Wilkinson,,2025-11-13T04:44:22.222132
+death,REG-1000,Amy Ford,,East Michaelburgh,,,,Disease,2025-11-13T04:44:22.222838
